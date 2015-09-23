@@ -25,7 +25,7 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 
 (3)	Der Verein ist interkonfessionell. Er ist nicht an Parteien oder Interessengruppen gebunden.
 
-(4)	Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigen¬wirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die sat¬zungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+(4)	Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die sat¬zungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 (5)	Der BdP verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 

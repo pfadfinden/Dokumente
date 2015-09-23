@@ -4,7 +4,7 @@ Geschäftsordnung für die Bundesversammlung des Bundes der Pfadfinderinnen und 
 
 ##	1.	Sitzungsverlauf
 Der regelmäßige Sitzungsverlauf ist folgender:  
-a)	Feststellen der ordnungsgemäßen Ladung und der   namentlichen und zahlenmäßigen Anwesenheit der Delegierten.  
+a)	Feststellen der ordnungsgemäßen Ladung und der namentlichen und zahlenmäßigen Anwesenheit der Delegierten.  
 b)	Feststellen der Beschlussfähigkeit.  
 c)	Wahl der Versammlungsleitung.  
 d)	Wahl der Protokollführung.  
