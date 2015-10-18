@@ -73,6 +73,10 @@ Jedes Mitglied hat Beiträge zu entrichten. Näheres regelt die von der Bundesve
 
 (3)  Fördernde Mitglieder unterstützen den Verein ideell und 	materiell. Sie haben mindestens den von der Bundesversammlung festgesetzten Jahresbeitrag für fördernde Mitglieder zu entrichten. Näheres regelt die von der Bundesversammlung erlassene Beitragsordnung. Sie können an Versammlungen mit beratender Stimme teilnehmen.
 
+Der Erwerb der Fördermitgliedschaft durch Personen
+unter 26 Jahren bedarf der Zustimmung des Vorstands
+der örtlichen Gruppe und des Landesvorstands.
+
 ## § 6	Organe des Vereins
 
 (1)	Organe des Vereins sind
@@ -107,9 +111,10 @@ Stimmberechtigt sind:
 - der Bundesvorstand.
 
 (3)	Die Bundesversammlung tritt jährlich, mindestens einmal zusammen. Hierzu lädt der Bundesvorstand ein.  
-Die Ladungsfrist beträgt acht Wochen. Sie beginnt mit der Einberufung an die Landesverbände durch Aufgabe zur Post.  
-Anträge zur Bundesversammlung müssen dem Bundesvorstand spätestens vier Wochen vor der Bundesversammlung schriftlich zugehen. Alle Anträge sollten eine schriftliche Begründung enthalten. Danach eingehende Anträge werden in der nächsten Versammlung behandelt, wenn die Bundesversammlung nichts anderes beschließt. Dies gilt nicht für Satzungsänderungsanträge.  
-Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei Wochen vor der Bundesversammlung durch Aufgabe zur Post.
+Die Ladungsfrist beträgt acht Wochen. Sie beginnt mit der Einberufung an die Landesverbände per E-Mail Post.  
+Anträge zur Bundesversammlung müssen dem Bundesvorstand spätestens vier Wochen vor der Bundesversammlung schriftlich zugehen. Alle Anträge sollten eine schriftliche Begründung enthalten. Danach eingehende Anträge werden in der nächsten Versammlung behandelt, wenn die Bundesversammlung nichts anderes beschließt. Dies gilt nicht für Satzungsänderungsanträge.
+
+Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei Wochen vor der Bundesversammlung per E-Mail oder Post.
 
 (4)	Auf schriftlichen Antrag eines Drittels der Stimmberechtigten nach Absatz 2 ist der Bundesvorstand verpflichtet, die Bundesversamm¬lung unverzüglich einzuberufen.
 
@@ -138,7 +143,7 @@ Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei
 - zur Abwahl von Bundesvorstandsmitgliedern,
 - zur Zulassung zur Behandlung eines zu spät eingereichten Bundesversammlungsantrages.
 
-(9)	Die Beschlüsse der Bundesversammlung werden protokolliert. Der Bundesvorstand schlägt der Bundesversammlung die Protokollfüh¬rer/innen vor. Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen in Kopie zugesandt. Über Einwände gegen den Inhalt entscheidet die nächste Bundesversammlung.
+(9)	Die Beschlüsse der Bundesversammlung werden protokolliert. Der Bundesvorstand schlägt der Bundesversammlung die Protokollfüh¬rer/innen vor. Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen in Kopie per E-Mail oder Post zugesandt. Über Einwände gegen den Inhalt entscheidet die nächste Bundesversammlung.
 
 ## § 8	Ausschüsse der Bundesversammlung
 Die Bundesversammlung kann Ausschüsse bilden, deren Aufgaben, Rechte und Pflichten von Fall zu Fall festgelegt werden. Die Ausschüsse haben der Bundesversammlung zu berichten.
@@ -210,12 +215,14 @@ Stimmberechtigt sind
 
 ## § 11	Der Bundesvorstand, die Bundesbeauftragten
 
-(1)	Der Bundesvorstand besteht aus
-- der/dem Vorsitzenden,
-- ein bis drei stellvertretenden Vorsitzenden,
+(1)	Der Bundesvorstand besteht ‐ hinsichtlich der Zahl
+der Vorsitzenden und Stellvertreter/innen nach Beschluss
+der Bundesversammlung ‐ aus
+- einer/einem oder zwei Vorsitzenden,
+- einer/einem bis drei Stellvertretenden Vorsitzenden,
 - dem/der Schatzmeister/in.
 
-Die Bundesversammlung beschließt auf Antrag des/der Vorsitzenden die zu wählende Anzahl der stellvertretenden Bundesvorsitzenden.   Der Bundesvorstand schlägt der Bundesversammlung Bundesbeauftragte für bestimmte Aufgabenbereiche lt. Bundesordnung zur Bestätigung vor. Eine Abberufung ist nur durch den Bundesvorstand möglich. Der Bundesvorstand kann zwischen den Bundesversammlungen Bundesbeauftragte berufen, die bis zur Bestätigung durch die nächste Bundesversammlung ihr Amt ausüben.   Der Bundesvorstand und die Bundesbeauftragten bilden die Bundes¬leitung. Bundesleitungsmitglieder müssen Vereinsmitglieder sein.
+Der Bundesvorstand schlägt der Bundesversammlung Bundesbeauftragte für bestimmte Aufgabenbereiche lt. Bundesordnung zur Bestätigung vor. Eine Abberufung ist nur durch den Bundesvorstand möglich. Der Bundesvorstand kann zwischen den Bundesversammlungen Bundesbeauftragte berufen, die bis zur Bestätigung durch die nächste Bundesversammlung ihr Amt ausüben.   Der Bundesvorstand und die Bundesbeauftragten bilden die Bundes¬leitung. Bundesleitungsmitglieder müssen Vereinsmitglieder sein.
 
 (2)	Die männlichen und weiblichen Mitglieder des Vereins müs-sen im Bundesvorstand repräsentiert sein. Nach Mög¬lichkeit sollte der Bundesvorstand paritätisch besetzt sein.
 
@@ -241,10 +248,12 @@ Die ausgezahlten pauschalen Aufwandsentschädigungen sind in der Jahresrechnung 
 
 ## § 12	Der Landesvorstand, die Landesbeauftragten
 
-(1)	Der Landesvorstand besteht aus
--	der/dem Landesvorsitzenden,
--	einem/r oder mehreren stellvertretenden Landesvorsitzenden,
--	dem/der Schatzmeister/in.
+(1)	Der Landesvorstand besteht ‐ hinsichtlich der Zahl der
+Vorsitzenden und Stellvertreter/innen nach Beschluss
+der Landesversammlung ‐ aus
+-	einer/einem oder zwei Landesvorsitzenden,
+-	einer/einem oder mehreren Stellvertretenden Landesvorsitzenden,
+-	einer/einem Landesschatzmeister/‐in.
 
 Die Landesversammlung beschließt auf Antrag des/der Vorsitzenden die zu wählende Anzahl der stellvertretenden Landesvorsitzenden.
 Der Landesvorstand schlägt der Landesversammlung Landesbeauftragte für bestimmte Aufgabenbereiche lt. Bundesordnung zur Bestätigung vor. Eine Abberufung ist nur durch den Landesvorstand möglich. Der Landesvorstand kann zwischen den Landesversammlungen Landesbeauftragte berufen, die bis zur Bestätigung durch die nächste Landesversammlung ihr Amt ausüben.
@@ -252,9 +261,9 @@ Der Landesvorstand und die Landesbeauftragten bilden die Landesleitung. Landesle
 
 (2)	Die männlichen und weiblichen Mitglieder müssen im Landesvorstand repräsentiert sein.
 
-(3)
+(3) Der Landesvorstand gibt sich selbst eine Geschäftsordnung, er kann bestimmte Aufgaben Dritten übertragen.
 
-(4)	Die Mitglieder des Landesvorstands werden von der Landesversammlung einzeln für die Dauer von zwei Jahren gewählt und bleiben bis zum Ablauf ihrer Amtsperiode, mindestens aber bis zur Neuwahl im Amt. Wiederwahl ist zulässig.
+(4)	Die Mitglieder des Landesvorstands werden von der Landesversammlung einzeln für die Dauer von zwei Jahren gewählt und bleiben bis zum Ablauf ihrer Amtsperiode, mindestens aber bis zur Neuwahl im Amt. Wiederwahl ist zulässig. Die Amtsperiode von zwei Jahren kann durch Regelungen der Landessatzungen individuell um bis zu zwei Jahren verlängert werden.
 
 (5)	Die Abwahl eines Mitglieds des Landesvorstands aus wichtigen Gründen ist gemäß § 9, Abs. 7 jederzeit möglich. Wichtige Gründe im Sinne des § 27 BGB sind grobe Pflichtverletzung oder die Unfähigkeit zur ordnungsgemäßen Geschäftsführung.
 
