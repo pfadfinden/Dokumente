@@ -1,6 +1,6 @@
 # BdP Bundessatzung
 
-> Neufassung 1999 und Änderungen 2000, 2001, 2002, 2004, 2009, 2010, 2013
+> Neufassung 1999 und Änderungen 2000, 2001, 2002, 2004, 2009, 2010, 2014, 2015
 
 ## § 1	Name, Sitz und Geschäftsjahr
 (1)	Der Verein trägt den Namen Bund der Pfadfinderinnen und Pfadfin¬der e.V., abgekürzt BdP.
@@ -50,7 +50,7 @@ Fördernde Mitglieder können unmittelbar dem Verein angehören.
 
 ## § 4	Beendigung der Mitgliedschaft
 (1)	Die Mitgliedschaft erlischt durch
--	Austritt des Mitgliedes mit Wirkung zum Ende des Kalenderjahres,
+-	Austritt des Mitgliedes durch Erklärung gegenüber der jeweiligen Untergliederung in Textform,
 -	Ausschluss des Mitgliedes,
 -	Streichung aus der Mitgliederliste aufgrund Beitragsrückstand von mehr als 11 Monaten nach Beitragsfälligkeit,
 -	Tod.
@@ -61,7 +61,9 @@ Fördernde Mitglieder können unmittelbar dem Verein angehören.
 
 Über den Ausschluss eines Vereinsmitgliedes entscheidet der Bundesvorstand nach der von der Bundesversammlung erlassenen Ausschlussordnung.
 
-(3)	Ein ausgeschiedenes Mitglied hat keine Ansprüche an das Vereinsvermögen
+(3) Die Beitragspflicht verlängert sich automatisch um ein Jahr, sofern der Austritt nicht bis zum 31. Dezember erklärt wurde. Bei unterjährigem Austritt erfolgt keine anteilige Rückerstattung von Mitgliedsbeiträgen.
+
+(4)	Ein ausgeschiedenes Mitglied hat keine Ansprüche an das Vereinsvermögen
 
 ##	§ 5	Rechte und Pflichten der Mitglieder
 
@@ -161,7 +163,7 @@ Stimmberechtigt sind
 - die nach der Wahlordnung des Vereins gewählten Landesdelegierten,
 - der Vorstand des Landesverbandes.
 
-(3)	Die Landesversammlung tritt mindestens einmal jährlich, mindestens 4 Wochen vor der Bundesversammlung zusammen. Die Ladungsfrist beträgt 4 Wochen. Sie beginnt mit der Einberufung an die örtlichen Gruppen durch Aufgabe zur Post.
+(3)	Die Landesversammlung tritt mindestens einmal jährlich, mindestens 4 Wochen vor der Bundesversammlung zusammen. Die Ladungsfrist beträgt 4 Wochen. Sie beginnt mit der Einberufung an die örtlichen Gruppen per E-Mail oder durch Aufgabe zur Post.
 
 (4)	Die Landesversammlung wählt die Bundesdelegierten nach der Wahlordnung des Vereins.
 
@@ -189,21 +191,22 @@ Stimmberechtigt sind
 
 ## § 10	Örtliche Mitgliederversammlungen
 
-(1)	Die örtliche Mitgliederversammlung ist oberstes beschluss-fassendes Organ der örtlichen Gruppe, sie tagt verbandsöffentlich.
+(1)	Die örtliche Mitgliederversammlung ist oberstes beschlussfassendes Organ der örtlichen Gruppe, sie tagt verbandsöffentlich.
 
-(2)	In der örtlichen Mitgliederversammlung haben alle ordentlichen Mitglieder der örtlichen Gruppe Sitz und Antragsrecht.
+(2)	Die Ladungsfrist für die ordentliche Mitgliederversammlung beträgt vier Wochen, sofern Landes- oder Stammessatzung keine abweichende Regelung vorsehen. Mitgliederversammlungen nach Absatz 6 sind hiervon ausgenommen.
 
-(3)	Die örtliche Mitgliederversammlung
+(3)	In der örtlichen Mitgliederversammlung haben alle ordentlichen Mitglieder der örtlichen Gruppe Sitz und Antragsrecht.
+
+(4)	Die örtliche Mitgliederversammlung
 -	wählt den Vorstand der örtlichen Gruppe,
 -	wählt die Delegierten der örtlichen Gruppe für die Landesversammlungen nach der Landeswahlordnung des Vereins,
 -	wählt die Kassenprüferinnen/Kassenprüfer.
 
-(4)	Die örtliche Mitgliederversammlung ist beschlussfähig, wenn mindestens ein Drittel der Stimmberechtigten nach Absatz 2 anwesend sind.
+(5)	Die örtliche Mitgliederversammlung ist beschlussfähig, wenn mindestens ein Drittel der Stimmberechtigten nach Absatz 3 anwesend sind.
 
-(5)	Ist dies nicht der Fall, so hat der Vorstand der örtlichen Gruppe die örtliche Mitgliederversammlung innerhalb eines Monats frühestens einer Woche mit gleicher Tagesordnung nochmals einzuberufen. Diese ist unabhängig von § 10 Absatz 4 beschlussfähig; darauf ist in der Einladung hinzuweisen.
+(6)	Ist dies nicht der Fall, so hat der Vorstand der örtlichen Gruppe die örtliche Mitgliederversammlung innerhalb eines Monats frühestens einer Woche mit gleicher Tagesordnung nochmals einzuberufen. Diese ist unabhängig von § 10 Absatz 5 beschlussfähig; darauf ist in der Einladung hinzuweisen.
 
-(6)	Die örtliche Mitgliederversammlung entscheidet grundsätzlich mit einfacher Mehrheit.
-
+(7)	Die örtliche Mitgliederversammlung entscheidet grundsätzlich mit einfacher Mehrheit.  
 2/3 der abgegeben Stimmen sind erforderlich
 -	Zur Änderung der Satzung (falls vorhanden)
 -	Zur Änderung der satzungsgemäßen Ordnung
@@ -211,7 +214,7 @@ Stimmberechtigt sind
 -	Zur Abwahl von Vorstandsmitgliedern
 -	Zur Zulassung zur Behandlung eines zu spät eingereichten Antrages.
 
-(7)	Die Beschlüsse der örtlichen Mitgliederversammlung werden protokolliert.
+(8)	Die Beschlüsse der örtlichen Mitgliederversammlung werden protokolliert.
 
 ## § 11	Der Bundesvorstand, die Bundesbeauftragten
 
@@ -280,7 +283,7 @@ Der Vorstand der örtlichen Gruppe wird von der Mitgliederversammlung auf die Da
 
 (1)	Satzungen von Untergliederungen des Vereins oder von Förder- und Trägervereinen, welche die Bezeichnung Bund der Pfadfinderinnen und Pfadfinder (BdP) verwenden, dürfen nicht im Widerspruch zu dieser Satzung stehen. Die Satzungen sowie deren Änderungen bedürfen vor Anmeldung beim Vereinsregister der schriftlichen Zustimmung des Bundesvorstandes.
 
-(2)	Lassen sich Untergliederungen des Vereins als rechtsfähiger Verein eintragen, muss ihre Satzung bestimmen, dass die Mitgliedschaft im Verein der Untergliederung zugleich die Mitgliedschaft im Bund der Pfadfinderinnen und Pfadfinder e.V. (BdP), Sitz Butzbach, begründet.
+(2)	Lassen sich Untergliederungen des Vereins als rechtsfähiger Verein eintragen, muss ihre Satzung bestimmen, dass die Mitgliedschaft im Verein der Untergliederung zugleich die Mitgliedschaft im Bund der Pfadfinderinnen und Pfadfinder e.V. (BdP), Sitz Immenhausen, begründet.
 
 (3)	Gründen Untergliederungen des Vereins Rechtsträgervereine, so muss dem Vorstand des Rechtsträgervereins mindestens ein gewähltes Vorstandsmitglied oder eine/ein Beauftragte/r des gewählten Vorstandes der Untergliederung angehören. Die Mehrzahl der Vorstandsmitglieder des Rechtsträgervereins muss der Untergliederung angehören. Die übrigen Mitglieder des Vorstandes der Untergliederung müssen dem Rechts-trägerverein beitreten; dazu muss dieser ihnen in seiner Satzung ein recht zum Eintritt gewähren.
 
@@ -297,4 +300,6 @@ Geändert in der 26. Bundesversammlung vom 19. bis 21. Mai 2000 in Immenhausen.
 Geändert in der 27. Bundesversammlung vom 7. bis 9. Juni 2002 in Immenhausen.  
 Geändert in der 30. Bundesversammlung am 21. Februar 2004 in Immenhausen.  
 Geändert in der 36. Bundesversammlung am 3. bis 5. Juni 2009 in Immenhausen.  
-Geändert in der 37. Bundesversammlung am 28. bis 30. Mai 2010 in Immenhausen.
+Geändert in der 37. Bundesversammlung am 28. bis 30. Mai 2010 in Immenhausen.  
+Geändert in der 41. Bundesversammlung am 16. bis 18. Mai 2014 in Immenhausen.  
+Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.
