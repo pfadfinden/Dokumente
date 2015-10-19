@@ -2,19 +2,17 @@
 
 ###	§ 1
 
-(1)	Die Landesdelegierten werden in den Mitglieder¬ver-sammlungen der örtlichen Gruppen und die Bundesdelegierten in der Landesversammlung in einem Wahlgang jährlich gewählt. Die Wahlperiode gilt bis zur Neuwahl der Delegierten. In der Landesversammlung hat jeder Wahlberechtigte soviel Stimmen, wie Bundesdelegierte gewählt werden. Stimmenhäufung ist unzulässig.
+(1)	Die Landesdelegierten werden in den Mitgliederversammlungen der örtlichen Gruppen und die Bundesdelegierten in der Landesversammlung in einem Wahlgang jährlich gewählt. Die Wahlperiode gilt bis zur Neuwahl der Delegierten. In der Landesversammlung hat jeder Wahlberechtigte soviel Stimmen, wie Bundesdelegierte gewählt werden. Stimmenhäufung ist unzulässig.
 
-Die Wahl der Delegierten und Ersatz¬delegierten kann in einem Wahlgang erfolgen. Die Bewerber mit den meisten Stimmen sind Delegierte, die mit den nächstniedrigen Stimmzahlen Ersatzdelegierte. Würden sich durch Stimmengleichheit die Zahl der zu stellenden Delegierten erhöhen, so entscheidet eine Stichwahl. Briefwahl und Stimmrechtsübertragung sind unzulässig.
+Die Wahl der Delegierten und Ersatzdelegierten kann in einem Wahlgang erfolgen. Die Bewerber mit den meisten Stimmen sind Delegierte, die mit den nächstniedrigen Stimmzahlen Ersatzdelegierte. Würden sich durch Stimmengleichheit die Zahl der zu stellenden Delegierten erhöhen, so entscheidet eine Stichwahl. Briefwahl und Stimmrechtsübertragung sind unzulässig.
 
 Zur Wahl ist drei Wochen vorher einzuladen.
 
 (2)	Die Wahl der Landesdelegierten muss spätestens 4 Wochen vor der jeweiligen Landesversammlung, die der Bundesdelegierten spätestens 4 Wochen vor der Bundesversammlung stattfinden
 
-(3)	Wahlberechtigt und wählbar ist jedes ordentliche Mitglied, das am Tage der Wahl seinen Beitrag bezahlt hat.
+(3)	Wahlberechtigt und wählbar ist jedes ordentliche Mitglied.
 
-(4)	Der Leiter / die Leiterin der örtlichen Gruppe bzw. der 1. Vorsitzende / die 1. Vorsitzende des Landesverbandes ist aufgrund der Wahl zu diesem Amt innerhalb der Delegiertenzahl stimmberechtigtes Mitglied der Landes- bzw. der Bundesversammlung
-
-In seinem/ihrem Verhinderungsfall übernimmt ein gewählter Vertreter / eine gewählte Vertreterin das Delegiertenmandat in der Landes- bzw. Bundesversammlung.
+(4)	Innerhalb der Delegiertenzahl ist der oder die Vorsitzende der örtlichen Gruppe bzw. des Landesverbandes stimmberechtigtes Mitglied der Landes- bzw. Bundesversammlung. Er bzw. sie wird im Delegiertenmandat in der Reihenfolge nach Festlegung der Geschäftsordnung des jeweiligen Vorstands durch die anderen Vorstandsmitglieder vertreten. Dort wird auch geregelt, wer von ggf. zwei Vorsitzenden das Delegiertenmandat wahrnimmt.
 
 ###	§ 2	Landesdelegierte
 
@@ -37,4 +35,6 @@ Die Bundesdelegierten sollten die männlichen und weiblichen Mitglieder der Land
 
 ---
 
-> Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen
+> Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen.  
+Geändert in der 41. Bundesversammlung vom 16. bis 18. Mai 2014 in Immenhausen.  
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.

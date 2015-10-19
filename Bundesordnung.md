@@ -1,121 +1,113 @@
-Bundesordnung
+# Bundesordnung
 
-Formen
-Aufbau
-Gliederung
+* Formen
+* Aufbau
+* Gliederung
 
-Anlagen:
-Ranger und Rover
-Erwachsene im BdP
+> Anlagen:  
+* Ranger und Rover
+* Erwachsene im BdP
 
-Bundesordnung
-des Bundes der Pfadfinderinnen und Pfadfinder e. V. (BdP)
+## Bundesordnung des Bundes der Pfadfinderinnen und Pfadfinder e. V. (BdP)
 
-I. Präambel
-- gestrichen -
+### I. Präambel
+*gestrichen*
 
-II. Pädagogische Konzeption
-- Als eigenständiges Dokument in einer Neufassung von der Bundesversammlung 2000 verabschiedet. -
+### II. Pädagogische Konzeption
+*Als eigenständiges Dokument in einer Neufassung von der Bundesversammlung 2000 verabschiedet.*
 
-III. Formen
+### III. Formen
 
-1.  Das Bundeszeichen - Kleeblatt und Rautenlilie- besteht aus den internationalen Zeichen der Pfadfinderinnenbewegung, dem Kleeblatt, und dem internationalen Zeichen der Pfadfinderbewegung, der Lilie.
+1. Das Bundeszeichen - Kleeblatt und Rautenlilie- besteht aus den internationalen Zeichen der Pfadfinderinnenbewegung, dem Kleeblatt, und dem internationalen Zeichen der Pfadfinderbewegung, der Lilie.
 
-2.  Die Farben des Bundes sind Blau-Gold.
+2. Die Farben des Bundes sind Blau-Gold.
 
-3 . Der Gruß entspricht dem internationalen Brauch.
+3. Der Gruß entspricht dem internationalen Brauch.
 
-4.  Zur Bundestracht gehören:
+4. Zur Bundestracht gehören:  
 Dunkelblaues Hemd/Bluse und Bundeszeichen. Für die Wölflingsstufe das goldgelbe Halstuch und als Stoffabzeichen der schwarze Wolfskopf auf goldgelbem Grund. Ab Pfadfinderstufe das blaue Halstuch mit goldgelbem Randstreifen und als Stoffabzeichen das Bundeszeichen auf blauem Grund. Die Ranger- und Roverstufe zusätzlich das Stoffabzeichen in Form einer Raute mit einem roten und blauen R im Winkel des Halstuches. Bei Auslandsfahrten wird das Deutschlandband getragen.
 
-IV. Aufbau
+### IV. Aufbau
 
-1.  Im Bund werden Altersstufen unterschieden:
-a) Wölflinge etwa 7 bis etwa 11 Jahre
-b) Pfadfinderinnen und Pfadfinder etwa 11 bis 15 Jahre
+1. Im Bund werden Altersstufen unterschieden:  
+a) Wölflinge etwa 7 bis etwa 11 Jahre  
+b) Pfadfinderinnen und Pfadfinder etwa 11 bis 15 Jahre  
 c) Ranger und Rover etwa ab 16 Jahren.
 
-2.  In allen Altersstufen können Mädchen und Jungen gemeinsam einer Gruppe angehören.
+2. In allen Altersstufen können Mädchen und Jungen gemeinsam einer Gruppe angehören.
 
+#### 3. Wölflingsstufe
+Das Versprechen lautet:  
+**Ich will ein guter Freund sein und unsere Regeln achten.  
+Die Regeln lauten:  
+Ein Wölfling nimmt Rücksicht auf andere.  
+Ein Wölfling hilft, wo er kann.**
 
+3.1. Die Wölflinge bilden Meuten. Eine Meute besteht in der Regel aus mehreren Rudeln mit 6 bis 8 Wölflingen.
 
+3.2. Das Rudel wählt sich einen Rudelführer.
 
-3.  Wölflingsstufe
-Das Versprechen lautet:
-Ich will ein guter Freund sein und unsere Regeln achten.
-Die Regeln lauten:
-Ein Wölfling nimmt Rücksicht auf andere.
-Ein Wölfling hilft, wo er kann.
-
-3.1.  Die Wölflinge bilden Meuten. Eine Meute besteht in der Regel aus mehreren Rudeln mit 6 bis 8 Wölflingen.
-
-3.2.  Das Rudel wählt sich einen Rudelführer.
-
-3.3.  Der Stammesrat wählt die Meutenführung.
+3.3. Der Stammesrat wählt die Meutenführung.
 
 3.4. Wölflinge und Meutenführung regeln die sie betreffenden Angelegenheiten gemeinsam.
 
 3.5.  In der Arbeit mit Kindern dieser Altersstufe arbeiten die Stämme des Bundes mit Spielhintergründen. Die Bezeichnungen leiten sich aus dem Dschungelbuch von R. Kipling ab. Gleichwertig treten andere Spielhintergründe hinzu, die mehr oder weniger lange durchgespielt werden können.
 
-4.  Die Pfadfinderinnen- und Pfadfinderstufe
-Die Stufe kann in zwei Programme unterteilt werden:
-Jungpfadfinder von 11 bis 13 Jahren, Pfadfinder von 13 bis 15 Jahren.
-Alle Ordnungen und Formen gelten für beide gleich.
+#### 4. Die Pfadfinderinnen- und Pfadfinderstufe
+Die Stufe kann in zwei Programme unterteilt werden:  
+Jungpfadfinder von 11 bis 13 Jahren, Pfadfinder von 13 bis 15 Jahren.  
+Alle Ordnungen und Formen gelten für beide gleich.  
 Das Versprechen der Pfadfinderinnen und Pfadfinder
-lautet:
-Ich will, im Vertrauen auf Gottes Hilfe, nach den Regeln der
-Pfadfinderinnen und Pfadfinder mit euch leben.
-Das Versprechen kann auch ohne religiöse Formel geleistet werden.
-Die Regeln der Pfadfinderinnen und Pfadfinder lauten:
-Ich will hilfsbereit und rücksichtsvoll sein.
-Ich will den anderen achten.
-Ich will zur Freundschaft aller Pfadfinderinnen und Pfadfinder beitragen.
-Ich will aufrichtig und zuverlässig sein.
-Ich will kritisch sein und Verantwortung übernehmen.
-Ich will Schwierigkeiten nicht ausweichen.
-Ich will die Natur kennenlernen und helfen, sie zu erhalten.
-Ich will mich beherrschen.
-Ich will dem Frieden dienen und mich für die Gemeinschaft einsetzen, in der ich lebe.
+lautet:  
+**Ich will, im Vertrauen auf Gottes Hilfe, nach den Regeln der Pfadfinderinnen und Pfadfinder mit euch leben.**  
+Das Versprechen kann auch ohne religiöse Formel geleistet werden.  
+**Die Regeln der Pfadfinderinnen und Pfadfinder lauten:  
+Ich will hilfsbereit und rücksichtsvoll sein.  
+Ich will den anderen achten.  
+Ich will zur Freundschaft aller Pfadfinderinnen und Pfadfinder beitragen.  
+Ich will aufrichtig und zuverlässig sein.  
+Ich will kritisch sein und Verantwortung übernehmen.  
+Ich will Schwierigkeiten nicht ausweichen.  
+Ich will die Natur kennenlernen und helfen, sie zu erhalten.  
+Ich will mich beherrschen.  
+Ich will dem Frieden dienen und mich für die Gemeinschaft einsetzen, in der ich lebe.**
 
-4.1.  6 bis 8 Pfadfinderinnen sind eine Sippe. Mehrere Sippen bilden eine Gilde.
+4.1. 6 bis 8 Pfadfinderinnen sind eine Sippe. Mehrere Sippen bilden eine Gilde.
 
-4.2.  Die Sippe wählt einen Sippenführer.
+4.2. Die Sippe wählt einen Sippenführer.
 
-4.3.  Die Gildenführung wird von den Mitgliedern der Gilde und  dem Stammesrat gewählt.
-4.4.  Die Gildenführung besteht aus dem Gildenführer oder der Gildenführerin und einem oder mehreren Assistenten. Gildenführung und Sippenführung bilden den Gildenrat. Der Gildenrat regelt gemeinsam die Angelegenheiten der Gilde.
+4.3. Die Gildenführung wird von den Mitgliedern der Gilde und  dem Stammesrat gewählt.
 
+4.4. Die Gildenführung besteht aus dem Gildenführer oder der Gildenführerin und einem oder mehreren Assistenten. Gildenführung und Sippenführung bilden den Gildenrat. Der Gildenrat regelt gemeinsam die Angelegenheiten der Gilde.
 
+#### 5. Die Stufe der Ranger und Rover
 
-5.  Die Stufe der Ranger und Rover
+5.1. Jugendliche (ab etwa 16 Jahre) und junge Erwachsene bilden die Ranger- und Roverstufe
 
-5.1.  Jugendliche (ab etwa 16 Jahre) und junge Erwachsene bilden die Ranger- und Roverstufe
+5.2. Ranger und Rover wählen die Form und Größe ihrer Gruppe nach ihren Bedürfnissen in Abstimmung mit der Stammesführung selbst.
 
-5.2.  Ranger und Rover wählen die Form und Größe ihrer Gruppe nach ihren Bedürfnissen in Abstimmung mit der Stammesführung selbst.
+5.3. Die Gruppe wählt aus Ihrer Mitte einen Sprecher/eine Sprecherin, der/die sie vertritt.
 
-5.3.  Die Gruppe wählt aus Ihrer Mitte einen Sprecher/eine Sprecherin, der/die sie vertritt.
+5.4. Der Gruppe kann ein Berater/eine Beraterin zur Verfügung stehen, der/die dieser nicht angehört. Dies soll in Übereinstimmung mit der Stammesführung erfolgen.
 
-5.4.  Der Gruppe kann ein Berater/eine Beraterin zur Verfügung stehen, der/die dieser nicht angehört. Dies soll in Übereinstimmung mit der Stammesführung erfolgen.
-5.5.  Ranger und Rover übernehmen Verantwortung in der Gruppe, im Stamm, im Landesverband, im Bund oder außerhalb des Bundes.
+5.5. Ranger und Rover übernehmen Verantwortung in der Gruppe, im Stamm, im Landesverband, im Bund oder außerhalb des Bundes.
 
-6.  Erwachsene im Bund
+#### 6. Erwachsene im Bund
 Erwachsene, die nicht der Ranger/Roverstufe angehören oder Führungsaufgaben wahrnehmen, können sich zu Freundeskreisen zusammenschließen, die in der Regel einem Stamm und sonst einem Landesverband angegliedert sind.
 
-V. Gliederungen
+### V. Gliederungen
 
-1.  Der Bund gliedert sich in Landesverbände. Die Landesverbände
-gliedern sich in Stämme und Aufbaugruppen. Die im Gebiet eines Bundeslandes liegenden Stämme und Aufbaugruppen sollen diesem Landesverband angehören.
+1. Der Bund gliedert sich in Landesverbände. Die Landesverbände gliedern sich in Stämme und Aufbaugruppen. Die im Gebiet eines Bundeslandes liegenden Stämme und Aufbaugruppen sollen diesem Landesverband angehören.
 
-1.1.	Innerhalb des Landesverbandes können Bezirke gebildet werden.
+1.1. Innerhalb des Landesverbandes können Bezirke gebildet werden.
 
-1.2.	Die Landesverbände unterstützen die Gruppen in ihrer Arbeit, führen Lehrgänge durch und entwickeln überörtliche Aktivitäten.
+1.2. Die Landesverbände unterstützen die Gruppen in ihrer Arbeit, führen Lehrgänge durch und entwickeln überörtliche Aktivitäten.
 
-2.	Der Stamm
+#### 2. Der Stamm
 
-2.1. Der Stamm umfasst als kleinste selbständige Einheit des
-Bundes mindestens zwei Altersstufen. Soweit örtlich nur eine Altersstufe vertreten ist, gilt sie als Aufbaugruppe. Eine Ausnahmeregelung gilt für Gruppen, bei denen örtlich zwei Altersstufen nicht möglich sind.
+2.1. Der Stamm umfasst als kleinste selbständige Einheit des Bundes mindestens zwei Altersstufen. Soweit örtlich nur eine Altersstufe vertreten ist, gilt sie als Aufbaugruppe. Eine Ausnahmeregelung gilt für Gruppen, bei denen örtlich zwei Altersstufen nicht möglich sind.
 
-2.2. Alle Mitglieder des Stammes bilden die Stammesversammlung.
-Sie wählt die Stammesführung und die Delegierten für die Landesversammlung. Bei Aufbaugruppen ist nur der Gruppenführer bei der Landesversammlung stimmberechtigt.
+2.2. Alle Mitglieder des Stammes bilden die Stammesversammlung. Sie wählt die Stammesführung und die Delegierten für die Landesversammlung. Bei Aufbaugruppen ist nur der Gruppenführer bei der Landesversammlung stimmberechtigt.
 
 2.3. Dem Stammesrat gehören die Stammesführung und die
 Vertreter der Altersstufen an. Ein Sprecher des Erwachsenen-
@@ -128,8 +120,6 @@ Freundeskreises sowie ein Vertreter eines etwa bestehenden Fördererkreises kön
 2.6. Die vorgenannten Punkte gelten für Aufbaugruppen entsprechend.
 
 2.7. Eine neu entstandene Gruppe wird durch Beschluss des Landesvorstandes als Aufbaugruppe aufgenommen Eine neu entstandene Gruppe wird auf Antrag von der Landesversammlung aufgenommen, wenn der Landesvorstand sich davon überzeugt hat, dass die Arbeit der neuen Gruppe im Sinne der Bundessatzung und dieser Bundesordnung erfolgt. Die Aufnahme bedeutet die Anerkennung als Aufbaugruppe des Bundes und schließt alle Rechte und Pflichten (ausgenommen des Stimmrechts auf der Landesversammlung) einer ordentlichen Mitgliedschaft im Sinne der Bundessatzung und dieser Bundesordnung ein. Die nächste stattfindende Landesversammlung bestätigt die Aufnahme als Aufbaugruppe, erst nach dieser Bestätigung hat die Aufbaugruppe Stimmrecht auf der Landesversammlung. Lehnt die Landesversammlung die Aufnahme ab, so verliert die Aufbaugruppe den Status als örtliche Gruppe mit sofortiger Wirkung.
-
-
 
 2.8. Die Anerkennung als Stamm kann auf Antrag der Aufbaugruppe
 durch die Landesversammlung ausgesprochen werden, wenn

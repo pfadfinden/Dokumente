@@ -3,7 +3,7 @@
 > Neufassung 1999 und Änderungen 2000, 2001, 2002, 2004, 2009, 2010, 2014, 2015
 
 ## § 1	Name, Sitz und Geschäftsjahr
-(1)	Der Verein trägt den Namen Bund der Pfadfinderinnen und Pfadfin¬der e.V., abgekürzt BdP.
+(1)	Der Verein trägt den Namen Bund der Pfadfinderinnen und Pfadfinder e.V., abgekürzt BdP.
 
 (2)	Sitz des Vereins ist Immenhausen.
 
@@ -14,7 +14,7 @@
 (5)	Der Verein gliedert sich in Landesverbände, diese wiederum in örtliche Gruppen.
 
 -	Die Landesverbände führen den Namen: **Bund der Pfadfinderinnen und Pfadfinder Landesverband** unter Hinzufügung des Namens des Bundeslandes bzw. der Bundesländer.
--	Die örtlichen Gruppen führen den Namen: **Bund der Pfadfinderinnen und Pfadfinder Stamm** unter Hinzufügung eines selbst gewählten Namens, bzw. Bund der Pfadfinderinnen und Pfadfinder Aufbau-gruppe unter Hinzufügung eines selbst gewählten Namens.
+-	Die örtlichen Gruppen führen den Namen: **Bund der Pfadfinderinnen und Pfadfinder Stamm** unter Hinzufügung eines selbst gewählten Namens, bzw. Bund der Pfadfinderinnen und Pfadfinder Aufbaugruppe unter Hinzufügung eines selbst gewählten Namens.
 
 Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des jeweiligen Landesvorstands bedürfen.
 
@@ -25,7 +25,7 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 
 (3)	Der Verein ist interkonfessionell. Er ist nicht an Parteien oder Interessengruppen gebunden.
 
-(4)	Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die sat¬zungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+(4)	Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 (5)	Der BdP verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
@@ -118,11 +118,11 @@ Anträge zur Bundesversammlung müssen dem Bundesvorstand spätestens vier Woche
 
 Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei Wochen vor der Bundesversammlung per E-Mail oder Post.
 
-(4)	Auf schriftlichen Antrag eines Drittels der Stimmberechtigten nach Absatz 2 ist der Bundesvorstand verpflichtet, die Bundesversamm¬lung unverzüglich einzuberufen.
+(4)	Auf schriftlichen Antrag eines Drittels der Stimmberechtigten nach Absatz 2 ist der Bundesvorstand verpflichtet, die Bundesversammlung unverzüglich einzuberufen.
 
 (5)	Die Bundesversammlung ist beschlussfähig, wenn zwei Drittel der Stimmberechtigten nach Absatz 2 anwesend sind.
 
-(6)	Ist dies nicht der Fall, so hat der Bundesvorstand die Bundesversammlung innerhalb eines Monats, frühestens nach einer Woche mit gleicher Tagesordnung nochmals einzu¬berufen. Diese ist unabhängig von § 7, Absatz 5, beschlussfähig; darauf ist in der Einladung hinzuweisen.
+(6)	Ist dies nicht der Fall, so hat der Bundesvorstand die Bundesversammlung innerhalb eines Monats, frühestens nach einer Woche mit gleicher Tagesordnung nochmals einzuberufen. Diese ist unabhängig von § 7, Absatz 5, beschlussfähig; darauf ist in der Einladung hinzuweisen.
 
 (7)	Aufgaben der Bundesversammlung sind insbesondere
 -	Beschlüsse über Maßnahmen im Interesse des Vereinszweckes,
@@ -145,7 +145,7 @@ Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei
 - zur Abwahl von Bundesvorstandsmitgliedern,
 - zur Zulassung zur Behandlung eines zu spät eingereichten Bundesversammlungsantrages.
 
-(9)	Die Beschlüsse der Bundesversammlung werden protokolliert. Der Bundesvorstand schlägt der Bundesversammlung die Protokollfüh¬rer/innen vor. Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen in Kopie per E-Mail oder Post zugesandt. Über Einwände gegen den Inhalt entscheidet die nächste Bundesversammlung.
+(9)	Die Beschlüsse der Bundesversammlung werden protokolliert. Der Bundesvorstand schlägt der Bundesversammlung die Protokollführer/innen vor. Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen in Kopie per E-Mail oder Post zugesandt. Über Einwände gegen den Inhalt entscheidet die nächste Bundesversammlung.
 
 ## § 8	Ausschüsse der Bundesversammlung
 Die Bundesversammlung kann Ausschüsse bilden, deren Aufgaben, Rechte und Pflichten von Fall zu Fall festgelegt werden. Die Ausschüsse haben der Bundesversammlung zu berichten.
@@ -176,7 +176,7 @@ Stimmberechtigt sind
 - Entlastung des Vorstandes des Landesverbandes,
 - Beschlüsse über eine Landeswahlordnung und eine Geschäftsordnung der Landesversammlung,
 - Anerkennung neuer örtlicher Gruppen,
-- Entscheidung über die Auflösung des Landes¬ver¬ban-des.
+- Entscheidung über die Auflösung des Landesverbandes.
 
 (6)	Im übrigen gilt § 7, Absatz 4-6 und 9 entsprechend
 
@@ -204,10 +204,11 @@ Stimmberechtigt sind
 
 (5)	Die örtliche Mitgliederversammlung ist beschlussfähig, wenn mindestens ein Drittel der Stimmberechtigten nach Absatz 3 anwesend sind.
 
-(6)	Ist dies nicht der Fall, so hat der Vorstand der örtlichen Gruppe die örtliche Mitgliederversammlung innerhalb eines Monats frühestens einer Woche mit gleicher Tagesordnung nochmals einzuberufen. Diese ist unabhängig von § 10 Absatz 5 beschlussfähig; darauf ist in der Einladung hinzuweisen.
+(6)	Ist dies nicht der Fall, so hat der Vorstand der örtlichen Gruppe die örtliche Mitgliederversammlung innerhalb eines Monats frühestens nach einer Woche mit gleicher Tagesordnung nochmals einzuberufen. Diese ist unabhängig von § 10 Absatz 5 beschlussfähig; darauf ist in der Einladung hinzuweisen.
 
 (7)	Die örtliche Mitgliederversammlung entscheidet grundsätzlich mit einfacher Mehrheit.  
 2/3 der abgegeben Stimmen sind erforderlich
+- Zum Beschluss der Satzung
 -	Zur Änderung der Satzung (falls vorhanden)
 -	Zur Änderung der satzungsgemäßen Ordnung
 -	Zur Auflösung der örtlichen Gruppe, soweit die Landessatzung nicht etwas anderes vorsieht
@@ -225,24 +226,24 @@ der Bundesversammlung ‐ aus
 - einer/einem bis drei Stellvertretenden Vorsitzenden,
 - dem/der Schatzmeister/in.
 
-Der Bundesvorstand schlägt der Bundesversammlung Bundesbeauftragte für bestimmte Aufgabenbereiche lt. Bundesordnung zur Bestätigung vor. Eine Abberufung ist nur durch den Bundesvorstand möglich. Der Bundesvorstand kann zwischen den Bundesversammlungen Bundesbeauftragte berufen, die bis zur Bestätigung durch die nächste Bundesversammlung ihr Amt ausüben.   Der Bundesvorstand und die Bundesbeauftragten bilden die Bundes¬leitung. Bundesleitungsmitglieder müssen Vereinsmitglieder sein.
+Der Bundesvorstand schlägt der Bundesversammlung Bundesbeauftragte für bestimmte Aufgabenbereiche lt. Bundesordnung zur Bestätigung vor. Eine Abberufung ist nur durch den Bundesvorstand möglich. Der Bundesvorstand kann zwischen den Bundesversammlungen Bundesbeauftragte berufen, die bis zur Bestätigung durch die nächste Bundesversammlung ihr Amt ausüben. Der Bundesvorstand und die Bundesbeauftragten bilden die Bundesleitung. Bundesleitungsmitglieder müssen Vereinsmitglieder sein.
 
-(2)	Die männlichen und weiblichen Mitglieder des Vereins müs-sen im Bundesvorstand repräsentiert sein. Nach Mög¬lichkeit sollte der Bundesvorstand paritätisch besetzt sein.
+(2)	Die männlichen und weiblichen Mitglieder des Vereins müssen im Bundesvorstand repräsentiert sein. Nach Möglichkeit sollte der Bundesvorstand paritätisch besetzt sein.
 
 (3)	Der Bundesvorstand gibt sich die Geschäftsordnung selbst, er kann bestimmte Aufgaben Dritten übertragen.
 
-(4)	Die Mitglieder des Bundesvorstands werden von der Bundesver¬sammlung einzeln für die Dauer von drei Jahren gewählt und bleiben bis zum Ablauf ihrer Amtsperiode, mindestens aber bis zur Neuwahl im Amt. Wiederwahl ist zulässig.
+(4)	Die Mitglieder des Bundesvorstands werden von der Bundesversammlung einzeln für die Dauer von drei Jahren gewählt und bleiben bis zum Ablauf ihrer Amtsperiode, mindestens aber bis zur Neuwahl im Amt. Wiederwahl ist zulässig.
 
 (5)	Die Abwahl eines Mitglieds des Bundesvorstands aus wichtigen Gründen ist gemäß § 7, Abs. 8 jederzeit möglich. Wichtige Gründe im Sinne des § 27 BGB sind grobe Pflichtverletzung oder die Unfähigkeit zur ordnungs-gemäßen Geschäftsführung.
 
-(6)	Der Bundesvorstand führt die Geschäfte des Vereins. Zur Vertretung des Vereins im Sinne des § 26 BGB sind jeweils zwei Vorstands¬mitglieder gemäß § 11 Abs. 1 gemeinsam berechtigt.
+(6)	Der Bundesvorstand führt die Geschäfte des Vereins. Zur Vertretung des Vereins im Sinne des § 26 BGB sind jeweils zwei Vorstandsmitglieder gemäß § 11 Abs. 1 gemeinsam berechtigt.
 
 (7)	Der Bundesvorstand ist verpflichtet, bei Verträgen, die den Verein mehr als ein Jahr binden, Kreditaufnahmen aller Art, außerplanmäßigen Aufwendungen, die ohne entsprechende zusätzliche Einnahmen mehr als 10 % des Jahresetats ausmachen, sich durch Fachleute beraten zu lasen. Das Ergebnis solcher Beratungen ist schriftlich festzuhalten.
 
 (8)	Soweit für Liegenschaften, Förderkreise o. ä. auf Bundesebene gesonderte Rechtsträger geschaffen werden, vertritt der Bundesvorstand die Interessen des Vereins in diesen Rechtsträgern.  
 Dem Vorstand des Rechtsträgers muss mindestens ein Mitglied des Bundesvorstandes oder ein von ihm Beauftragter angehören.
 
-(9)	Der Bundesvorstand hat das Recht, Geschäftsführung und Finanzge¬baren der Untergliederungen zu prüfen. Die Prüfung kann sich insbesondere auf die Kassenführung sowie auf Erwerb, Nachweis und Verbleib von Vermögenswerten erstrecken. Die Prüfung führt der oder die zuständige Bundesschatzmeister/-in durch. Er/Sie kann sachkundige Personen beauftragen.  
+(9)	Der Bundesvorstand hat das Recht, Geschäftsführung und Finanzgebaren der Untergliederungen zu prüfen. Die Prüfung kann sich insbesondere auf die Kassenführung sowie auf Erwerb, Nachweis und Verbleib von Vermögenswerten erstrecken. Die Prüfung führt der oder die zuständige Bundesschatzmeister/-in durch. Er/Sie kann sachkundige Personen beauftragen.  
 Der Bundesvorstand hat das Recht, an Sitzungen der Organe seiner Untergliederungen beratend teilzunehmen.
 
 (10) An Mitglieder des Bundesvorstandes kann, in besonders begründeten Ausnahmefällen, eine pauschale Aufwandsentschädigung nach § 3 Nr. 26a EStG ausgezahlt werden.  
@@ -270,7 +271,7 @@ Der Landesvorstand und die Landesbeauftragten bilden die Landesleitung. Landesle
 
 (5)	Die Abwahl eines Mitglieds des Landesvorstands aus wichtigen Gründen ist gemäß § 9, Abs. 7 jederzeit möglich. Wichtige Gründe im Sinne des § 27 BGB sind grobe Pflichtverletzung oder die Unfähigkeit zur ordnungsgemäßen Geschäftsführung.
 
-(6)	Der Landesvorstand führt die Geschäfte des Landes-verbandes. Zur Vertretung des Landesverbandes im Sinne des § 26 BGB sind jeweils zwei Vorstandsmitglieder gemäß § 12 Abs. 1 gemeinsam berechtigt.
+(6)	Der Landesvorstand führt die Geschäfte des Landesverbandes. Zur Vertretung des Landesverbandes im Sinne des § 26 BGB sind jeweils zwei Vorstandsmitglieder gemäß § 12 Abs. 1 gemeinsam berechtigt.
 
 (7)	Der Landesvorstand hat das Recht, Geschäftsführung und Finanzgebaren der Untergliederungen zu prüfen. Die Prüfung kann sich insbesondere auf die Kassenführung sowie auf Erwerb, Nachweis und Verbleib von Vermögenswerten erstrecken. Die Prüfung führt der oder die zuständige Landesschatzmeister/-in durch. Er/Sie kann sachkundige Personen beauftragen.  
 Der Landesvorstand hat das Recht, an Sitzungen der Organe seiner Untergliederungen beratend teilzunehmen.
@@ -289,7 +290,7 @@ Der Vorstand der örtlichen Gruppe wird von der Mitgliederversammlung auf die Da
 
 ## § 15	Auflösung des Vereins
 
-(1)	Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall seines bisherigen Zweckes fällt das Vermögen an die Stiftung Pfadfinden unter der Auflage, es alsbald ausschließlich und unmittelbar gemein¬nützigen Zwecken im Sinne des § 2 der Satzung zuzuführen. Sofern die Bundesversammlung nicht anders beschließt, wird der Bundes¬vorstand zu Liquidatoren bestimmt.
+(1)	Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall seines bisherigen Zweckes fällt das Vermögen an die Stiftung Pfadfinden unter der Auflage, es alsbald ausschließlich und unmittelbar gemeinnützigen Zwecken im Sinne des § 2 der Satzung zuzuführen. Sofern die Bundesversammlung nicht anders beschließt, wird der Bundesvorstand zu Liquidatoren bestimmt.
 
 (2)	Bei Auflösung, Aufhebung oder Ausschluss einer Untergliederung fällt das Vermögen an die nächsthöhere Ebene unter der Auflage, dieses baldmöglichst der satzungsgemäßen Verwendung zuzuführen.
 

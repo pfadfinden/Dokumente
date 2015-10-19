@@ -1,6 +1,6 @@
 # Beitragsordnung
 
-Basierend auf § 5 der Bundessatzung bzw. der entsprechenden §§ der Satzungen der Untergliederungen regelt die Beitragsordnung das Verfahren für die Beitragserhebung von Mitgliedern.
+> Basierend auf § 5 der Bundessatzung bzw. der entsprechenden §§ der Satzungen der Untergliederungen regelt die Beitragsordnung das Verfahren für die Beitragserhebung von Mitgliedern.
 
 Der Bund der Pfadfinderinnen und Pfadfinder e. V. erhebt einen jährlichen Mitgliedsbeitrag. Dieser beinhaltet u.a. die Unfall- und Haftpflichtversicherung, die Mitgliederzeitschrift sowie die Beiträge für WAGGGS und WOSM.
 
@@ -32,18 +32,19 @@ Der Bundesbeitrag der BdP-Mitglieder, die in Sachsen, Brandenburg, Sachsen-Anhal
 ## § 3	Fälligkeit des Beitrages
 (1)	Der Bundesbeitrag ist zum 1. Januar des Jahres fällig. Handelt es sich um den ersten Beitrag nach Vereinsbeitritt, ist der Bundesbeitrag innerhalb von drei Wochen nach Zusendung des Mitgliedsausweises fällig.
 
-(2)	Die örtlichen Gruppen führen die Landes- und Bundesbeiträge Ihrer Mitglieder bis zum 28. Februar des Jahres an den jeweiligen Landesverband ab.
+(2)	Die örtlichen Gruppen führen die Landes- und Bundesbeiträge Ihrer Mitglieder bis zum 28. Februar des Jahres an den jeweiligen Landesverband ab. Hierzu erhalten die örtlichen Gruppen eine Rechnung mit namentlicher Auflistung der Mitglieder, für die ein Beitrag fällig ist.
 
-Die Landesverbände führen die Bundesbeiträge bis zum 31. März des Jahres an den Bund ab.
+Die Landesverbände führen die Bundesbeiträge bis zum 31. März des Jahres an den Bund ab. Hierzu erhalten die Landesverbände eine Rechnung mit namentlicher Auflistung der Mitglieder, für die ein Beitrag fällig ist.
 
 Nach Anforderung durch den Bund können mit den Landesverbänden Abschlagszahlungen vereinbart werden.
 
 (3)	Der Bundeshalbjahresbeitrag ist innerhalb von drei Wochen nach Zusendung des Mitgliedsausweises fällig.
 
-(4)	Beiträge von Mitgliedern, die im Laufe des Jahres beitreten, werden unverzüglich an die Landes- und Bundesebene weitergeleitet.
+(4)	Beiträge von Mitgliedern, die im Laufe des Jahres beitreten, können von der Landes- und Bundesebene unterjährig den Untergliederungen in Rechnung gestellt werden.
 
-(5)	Der BdP gibt für den eingegangen Jahresbeitrag eine Beitragsmarke aus.
+(5)	Austritte müssen bis spätestens zum 31. Januar des Folgejahres durch die örtliche Gruppe an den Landesverband gemeldet werden. Für alle danach dem Landes- oder Bundesverband gemeldeten Austritte ergibt sich eine Beitragsfälligkeit gegenüber den Untergliederungen nach Absatz 1.
 
 ---
 
-> Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen
+> Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen  
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 Immenhausen

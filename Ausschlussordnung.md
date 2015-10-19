@@ -8,7 +8,7 @@
 Über den Ausschluss entscheidet der Bundesvorstand.
 
 #### (2)	Juristische Personen
-Über den Ausschluss von juristischen Personen entscheidet der Bundes¬vorstand.
+Über den Ausschluss von juristischen Personen entscheidet der Bundesvorstand.
 
 ## § 2	Gründe für einen Ausschluss
 Der Ausschluss eines Mitglieds erfolgt, wenn das Mitglied

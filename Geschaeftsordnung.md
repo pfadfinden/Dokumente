@@ -33,12 +33,13 @@ Bei einem Geschäftsordnungsantrag begründet der/die Antragsteller/in den Antra
 In der Vorbereitung und notwendigenfalls während der Diskussion können zu einem zur Entscheidung anstehenden Antrag Änderungen einzelner Aspekte des Antrags beantragt werden. Der/die Antragstellende/n können solche Anträge in seinen/ihren Antrag aufnehmen. Nimmt der/die Antragstellende/n die Änderung nicht in den Antrag auf, so erfolgt in der Regel eine vorgezogene Aussprache mit anschließender Abstimmung über den Änderungsantrag. Anträge können von Antragstellenden nur zurückgezogen werden, wenn sich dagegen kein Widerspruch aus der Versammlung erhebt.
 
 ##	6.	Abstimmung
-Vor der Abstimmung ist der Antrag zu verlesen. Abgestimmt wird grundsätzlich durch Handaufheben. Auf Verlangen von einer/m Delegierten ist geheim abzustimmen. Während der Abstimmung können keine Anträge gestellt werden. Im Zweifel entscheidet die Bundes¬versammlung über die Reihenfolge der Abstimmung. Alle Änderungsanträge sind vor dem Hauptantrag abzustimmen. Bei mehreren Anträgen zum gleichen Beratungsgegenstand ist über den weitestgehenden Antrag zuerst abzustimmen. Anträge zur Geschäftsordnung haben den Vorrang. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
+Vor der Abstimmung ist der Antrag zu verlesen. Abgestimmt wird grundsätzlich durch Handaufheben. Auf Verlangen von einer/m Delegierten ist geheim abzustimmen. Während der Abstimmung können keine Anträge gestellt werden. Im Zweifel entscheidet die Bundesversammlung über die Reihenfolge der Abstimmung. Alle Änderungsanträge sind vor dem Hauptantrag abzustimmen. Bei mehreren Anträgen zum gleichen Beratungsgegenstand ist über den weitestgehenden Antrag zuerst abzustimmen. Anträge zur Geschäftsordnung haben den Vorrang. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
 
 ##	7.	Protokoll
-Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen in Kopie zugesandt.
+Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen per E-Mail oder per Post zugesandt.
 
 ---
 
-> Beschlossen in der 26. Bundesversammlung vom 19. - 21. Mai 2000 in Immenhausen  
-Beschlossen in der 40. Bundesversammlung vom 08. - 09. Juni 2013 in Immenhausen
+> Beschlossen in der 26. Bundesversammlung vom 19. bis 21. Mai 2000 in Immenhausen  
+Beschlossen in der 40. Bundesversammlung vom 08. bis 09. Juni 2013 in Immenhausen  
+Beschlossen in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen
