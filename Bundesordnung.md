@@ -119,21 +119,20 @@ Freundeskreises sowie ein Vertreter eines etwa bestehenden Fördererkreises kön
 
 2.6. Die vorgenannten Punkte gelten für Aufbaugruppen entsprechend.
 
-2.7. Eine neu entstandene Gruppe wird durch Beschluss des Landesvorstandes als Aufbaugruppe aufgenommen Eine neu entstandene Gruppe wird auf Antrag von der Landesversammlung aufgenommen, wenn der Landesvorstand sich davon überzeugt hat, dass die Arbeit der neuen Gruppe im Sinne der Bundessatzung und dieser Bundesordnung erfolgt. Die Aufnahme bedeutet die Anerkennung als Aufbaugruppe des Bundes und schließt alle Rechte und Pflichten (ausgenommen des Stimmrechts auf der Landesversammlung) einer ordentlichen Mitgliedschaft im Sinne der Bundessatzung und dieser Bundesordnung ein. Die nächste stattfindende Landesversammlung bestätigt die Aufnahme als Aufbaugruppe, erst nach dieser Bestätigung hat die Aufbaugruppe Stimmrecht auf der Landesversammlung. Lehnt die Landesversammlung die Aufnahme ab, so verliert die Aufbaugruppe den Status als örtliche Gruppe mit sofortiger Wirkung.
+2.7. Eine neu entstandene Gruppe wird durch Beschluss des Landesvorstandes als Aufbaugruppe aufgenommen, wenn der Landesvorstand sich davon überzeugt hat, dass die Arbeit der neuen Gruppe im Sinne der Bundessatzung und dieser Bundesordnung erfolgt.
 
-2.8. Die Anerkennung als Stamm kann auf Antrag der Aufbaugruppe
-durch die Landesversammlung ausgesprochen werden, wenn
+Die Aufnahme bedeutet die Anerkennung als Aufbaugruppe des Bundes und schließt alle Rechte und Pflichten einer ordentlichen Mitgliedschaft im Sinne der Bundessatzung und dieser Bundesordnung ein.
+
+Die nächste stattfindende Landesversammlung bestätigt die Aufnahme als Aufbaugruppe, erst nach dieser Bestätigung hat die Aufbaugruppe Stimmrecht auf der Landesversammlung. Lehnt die Landesversammlung die Aufnahme ab, so verliert die Aufbaugruppe den Status als örtliche Gruppe mit sofortiger Wirkung.
+
+2.8. Die Anerkennung als Stamm kann auf Antrag der Aufbaugruppe durch die Landesversammlung ausgesprochen werden, wenn
 - die unter Punkt 2.l. genannte Bedingung erfüllt ist;
-- der Landesvorstand oder die von ihm Beauftragten bestätigen, dass die Gruppe mit den anderen Stämmen des Landesverbandes zusammenarbeitet, insbesondere an Ausbildungsmaßnahmen
-und Veranstaltungen des Landesverbandes teilnimmt;
+- der Landesvorstand oder die von ihm Beauftragten bestätigen, dass die Gruppe mit den anderen Stämmen des Landesverbandes zusammenarbeitet, insbesondere an Ausbildungsmaßnahmen und Veranstaltungen des Landesverbandes teilnimmt;
 - die Gruppenführung gemäß Punkt 2.2. gewählt und der künftige Stammesrat der Landesversammlung vorgestellt wird.
 
-2.9. Erfüllt ein anerkannter Stamm wesentliche Teile der in Punkt 2.1. und Punkt 2.8. genannten Voraussetzungen über einen Zeitraum von mehr als einem Jahr nicht mehr, kann die Landesversammlung
-auf Antrag des Landesvorstandes die Aberkennung der Bezeichnung
-„Stamm“ aussprechen. Die Gruppe wird danach als Aufbaugruppe des Landesverbandes geführt.
+2.9. Erfüllt ein anerkannter Stamm wesentliche Teile der in Punkt 2.1. und Punkt 2.8. genannten Voraussetzungen über einen Zeitraum von mehr als einem Jahr nicht mehr, kann die Landesversammlung auf Antrag des Landesvorstandes die Aberkennung der Bezeichnung „Stamm“ aussprechen. Die Gruppe wird danach als Aufbaugruppe des Landesverbandes geführt.
 
-2.10. Nur anerkannte Stämme des Bundes können das Bundessiegel
-führen.
+2.10. Nur anerkannte Stämme des Bundes können das Bundessiegel führen.
 
 3.	Horste
 
@@ -146,8 +145,7 @@ führen.
 - Wahrnehmungen gemeinsamer Interessen, z. B. gegenüber der Öffentlichkeit, gegenüber Behörden.
 - Gründung neuer Aufbaugruppen.
 
-3 .4. Horste dienen nicht dazu, Stämme von ihren satzungsgemäßen
-Aufgaben zu entbinden.
+3 .4. Horste dienen nicht dazu, Stämme von ihren satzungsgemäßen Aufgaben zu entbinden.
 
 4.	Bezirke
 
@@ -159,29 +157,21 @@ Aufgaben zu entbinden.
 
 4.4. Bezirke können nach den regionalen Notwendigkeiten Verwaltungsaufgaben übernehmen und Verwaltungsstrukturen entwickeln. Dazu ist die Zustimmung des Landesvorstandes einzuholen.
 
-
 4.5. Bezirke dienen nicht dazu, Stämme von ihren satzungsgemäßen Aufgaben zu entbinden.
 
 5.	Landesverbände
 
-5.1. Die Stämme und Aufbaugruppen innerhalb eines Bundeslandes
-bilden einen Landesverband; Landesverbände benachbarter
-Bundesländer können mit Zustimmung der Bundesversammlung
-einen gemeinsamen Landesverband bilden.
+5.1. Die Stämme und Aufbaugruppen innerhalb eines Bundeslandes bilden einen Landesverband; Landesverbände benachbarter Bundesländer können mit Zustimmung der Bundesversammlung einen gemeinsamen Landesverband bilden.
 
-5.2. Die gewählten Landesdelegierten der Stämme und der
-Aufbaugruppen und der Landesvorstand bilden die Landesversammlung. Außerdem gehören der Landesversammlung als nicht stimmberechtigte Mitglieder die Landesbeauftragten an.
+5.2. Die gewählten Landesdelegierten der Stämme und der Aufbaugruppen und der Landesvorstand bilden die Landesversammlung. Außerdem gehören der Landesversammlung als nicht stimmberechtigte Mitglieder die Landesbeauftragten an.
 
 5.3. Die Landesversammlung wählt den Landesvorstand gemäß § 12 der Satzung des Bundes der Pfadfinderinnen und Pfadfinder e.V. BdP); sie regelt die Angelegenheiten des Landesverbandes; im Übrigen gilt § 9 der v.g. Satzung.
 
-5.4. Der Landesvorstand schlägt der Landesversammlung
-Landesbeauftragte, besonders für die Stufenarbeit, vor. Die Landesbeauftragten müssen von der Landesversammlung
-bestätigt werden. Landesvorstand und Landesbeauftragte bilden die Landesleitung.
+5.4. Der Landesvorstand schlägt der Landesversammlung Landesbeauftragte, besonders für die Stufenarbeit, vor. Die Landesbeauftragten müssen von der Landesversammlung bestätigt werden. Landesvorstand und Landesbeauftragte bilden die Landesleitung.
 
 5.5. Der Landesvorstand benennt einen Ansprechpartner für die Erwachsenen.
 
-5.6. Stellen Gruppen, die außerhalb des Bundes stehen, einen
-Antrag auf Aufnahme in den Bund, so entscheidet darüber die Landesversammlung nach Anhörung des Bundesvorstandes.
+5.6. Stellen Gruppen, die außerhalb des Bundes stehen, einen Antrag auf Aufnahme in den Bund, so entscheidet darüber die Landesversammlung nach Anhörung des Bundesvorstandes.
 
 6.	Der Bund
 
@@ -199,8 +189,9 @@ Für alle Wahlen gelten die in der Wahlordnung festgelegten Grundsätze entsprec
 
 VII. Schlußbemerkung
 
-Die Bundesordnung tritt nach Beschluss durch die Bundesversammlung am 7.11.1976 in Kraft.
-Beschlossen in der 2. Bundesversammlung am 6./7. November 1976 in Oberreifenberg.
+---
+
+> Beschlossen in der 2. Bundesversammlung am 6./7. November 1976 in Oberreifenberg.
 Geändert in der 3. Bundesversammlung am 14./15. Mai 1977 in Biedenkopf/Lahn.
 Geändert in der 6. Bundesversammlung am 17./18. Mai 1980 in Biedenkopf/Lahn.
 Geändert in der 9. Bundesversammlung vom 6. bis 8. Mai 1983 in Bergisch Gladbach.
@@ -210,9 +201,9 @@ Ergänzt in der 13. Bundesversammlung vom 1. bis 3. Mai 1987 auf Burg Altleining
 Ergänzt in der 16. Bundesversammlung vom 11. bis 13. Mai 1990 in Immenhausen.
 Geändert in der 19. Bundesversammlung vom 8. bis 9. Mai 1993 in Immenhausen.
 Geändert in der 41. Bundesversammlung vom 16. bis 18. Mai 2014 in Immenhausen.
-Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.
 
-
+---
 
 Bundesordnung
 Anlage
@@ -221,12 +212,10 @@ Ranger und Rover
 Ranger und Rover sind etwa zwischen 16 und 25 Jahre alt. Sie bringen
 sich nach Interesse und Möglichkeit aktiv in die Stammes-/ Landes- und/oder Bundesarbeit ein. Ranger und Rover sind in Runden oder Kreisen organisiert und/oder haben ein Amt im BdP inne. Eine Runde ist ein fester Teilnehmendenkreis mit regelmäßigen Treffen. Kreise bestehen aus Teilnehmenden mit einem gemeinsamen Interesse, z. B. Singekreis, Segelkreis, Kursteam und andere. Die übertretenden Sippen suchen im Einverständnis mit der Stammesführung vor dem Übertritt eine Person aus der R/R-Stufe, die sie im Stufenübergang zum R/R-Dasein begleitet.
 Der Pate / die Patin wird bei Bedarf aktiv und ist kein Mitglied der Runde. Der Pate / die Patin hat lediglich eine beratende Funktion und gibt Impulse für die Arbeit in der Runde. Paten führen jedoch nicht eigenständig Programm und Aktionen durch. Diese werden von der
-Runde in einem gemeinschaftlichen Prozess erarbeitet.
-Die Runde wählt hierbei selbstständig einen Sprecher / eine Sprecherin aus ihrer Mitte, welche/r die Gruppe nach außen vertritt.
-Alle Ranger und Rover eines Stammes wählen eine/n Stufensprecher/
-in.
-Im Mittelpunkt der Arbeit stehen die Erweiterung und die Verfeinerung
-der Kompetenzen, die in den anderen zwei Stufen erlangt wurden. Beispielsweise kann die Methode Fahrt aus der Pfadfinderstufe unabhängiger und mehr nach Interessenlage durchgeführt werden.
+Runde in einem gemeinschaftlichen Prozess erarbeitet. Die Runde wählt hierbei selbstständig einen Sprecher / eine Sprecherin aus ihrer Mitte, welche/r die Gruppe nach außen vertritt. Alle Ranger und Rover eines Stammes wählen eine/n Stufensprecher/ in.
+
+
+Im Mittelpunkt der Arbeit stehen die Erweiterung und die Verfeinerung der Kompetenzen, die in den anderen zwei Stufen erlangt wurden. Beispielsweise kann die Methode Fahrt aus der Pfadfinderstufe unabhängiger und mehr nach Interessenlage durchgeführt werden.
 
 Der Ranger- und Roverstufe stehen eigene Methoden zur Verfügung.
 Hier sind zum Beispiel die Wache, die Kundschaft, das Projekt, das Abendlager und die Streife zu nennen. Die erlernten Fähigkeiten können im alltäglichen Umgang vermehrt eingesetzt und erprobt werden und kommen z. B. in Schule, Freundeskreis oder Beruf zum Tragen. Des Weiteren setzt die Ranger- und Roverstufe Impulse, bietet Unterstützung bei der Orientierung von Jugendlichen und jungen Erwachsenen im alltäglichen Leben und regt zur Beschäftigung mit
@@ -235,8 +224,7 @@ von Aktivitäten oder in Interessenvertretungen. Sie begreifen die International
 Es ist dann an der Zeit, in der Runde der langjährigen Freundinnen und Freunde Abschied zu feiern. Nach der Verabschiedung aus der Ranger- und Roverstufe bestehen noch viele Möglichkeiten für eine Betätigung als Erwachsene im BdP.
 
 
-Beschlossen von der 34. Bundesversammlung am 11.-13. Mai 2007 in Immenhausen als
-Anlage zur Bundesordnung des Bundes der Pfadfinderinnen und Pfadfinder e.V.
+> Beschlossen von der 34. Bundesversammlung am 11.-13. Mai 2007 in Immenhausen als Anlage zur Bundesordnung des Bundes der Pfadfinderinnen und Pfadfinder e.V.
 
 
 
