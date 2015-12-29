@@ -1,6 +1,6 @@
 # Beitragsordnung
 
-> Basierend auf § 5 der Bundessatzung bzw. der entsprechenden §§ der Satzungen der Untergliederungen regelt die Beitragsordnung das Verfahren für die Beitragserhebung von Mitgliedern.
+Basierend auf § 5 der Bundessatzung bzw. der entsprechenden §§ der Satzungen der Untergliederungen regelt die Beitragsordnung das Verfahren für die Beitragserhebung von Mitgliedern.
 
 Der Bund der Pfadfinderinnen und Pfadfinder e. V. erhebt einen jährlichen Mitgliedsbeitrag. Dieser beinhaltet u.a. die Unfall- und Haftpflichtversicherung, die Mitgliederzeitschrift sowie die Beiträge für WAGGGS und WOSM.
 
@@ -8,23 +8,24 @@ Bei Beitritt nach dem 30.06. eines Jahres wird ein Bundeshalbjahresbeitrag erhob
 
 ## § 1	Zusammensetzung des Beitrages
 
-#### (1)	Mitgliedschaft auf Stammesebene
+(1)	Mitgliedschaft auf Stammesebene
+
 Der Beitrag setzt sich wie folgt zusammen:
 - ein von der Bundesversammlung festgesetzter Bun¬des-beitrag,
 - ein von der jeweiligen Landesversammlung festgesetzter Landesbeitrag,
 - ein von der jeweiligen örtlichen Mitgliederversammlung festgesetzter Beitrag für die örtliche Gruppe.
 
-#### (2)	Mitgliedschaft auf Landesebene
+(2)	Mitgliedschaft auf Landesebene
 Der Beitrag setzt sich wie folgt zusammen:
 - ein von der Bundesversammlung festgesetzter Bundesbeitrag,
 - ein von der jeweiligen Landesversammlung festgesetzter Landesbeitrag.
 
-#### (3)	Mitgliedschaft auf Bundesebene
+(3)	Mitgliedschaft auf Bundesebene
 Der Beitrag besteht aus einem von der Bundesversammlung festgesetzten Bundesbeitrag.
 
-(4) Mitglieder, die in zwei (2) örtlichen Gruppen Mitglied sind, 	müssen den Beitrag in der örtlichen Gruppe, in der sie ihr 	aktives beziehungsweise passives Wahlrecht ausüben, 	entrichten.
+(4) Mitglieder, die in zwei (2) örtlichen Gruppen Mitglied sind, 	müssen den Beitrag in der örtlichen Gruppe, in der sie ihr 	aktives beziehungsweise passives Wahlrecht ausüben, entrichten.
 
-(5) Mitglieder, die in zwei (2) Landesverbänden Mitglied sind, müssen den Beitrag in dem Landesverband, in dem sie ihr aktives beziehungsweise passives Wahlrecht ausüben, 		entrichten.
+(5) Mitglieder, die in zwei (2) Landesverbänden Mitglied sind, müssen den Beitrag in dem Landesverband, in dem sie ihr aktives beziehungsweise passives Wahlrecht ausüben, entrichten.
 
 ##	§ 2
 Der Bundesbeitrag der BdP-Mitglieder, die in Sachsen, Brandenburg, Sachsen-Anhalt, Mecklenburg-Vorpommern und Thüringen leben, soll dem allgemeinen Einkommensniveau dieser Länder angepasst werden. Dies ist bei der Festsetzung des Bundesbeitrags zu berücksichtigen
@@ -46,5 +47,6 @@ Nach Anforderung durch den Bund können mit den Landesverbänden Abschlagszahlun
 
 ---
 
-> Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen  
-Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 Immenhausen
+> Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen.  
+Geändert in der 40. Bundesversammlung vom 7. bis 9. Juni 2013 in Immenhausen.  
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 Immenhausen.
