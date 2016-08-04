@@ -11,11 +11,7 @@
 Über den Ausschluss von juristischen Personen entscheidet der Bundesvorstand.
 
 ## § 2	Gründe für einen Ausschluss
-Der Ausschluss eines Mitglieds erfolgt, wenn das Mitglied
-
-den Vereinsinteressen zuwiderhandelt oder das Ansehen des Vereins schädigt, insbesondere durch Verletzung des Grundsatzes der politischen oder religiösen Toleranz;
-
-im Falle der Mitgliedschaft oder Mitarbeit in einer Partei oder Vereinigung, die Ausländerfeindlichkeit, Fremdenhass, Rassismus, Nationalismus und Intoleranz gegenüber Andersdenkenden verbreitet
+Die Gründe für einen Ausschluss regelt die Bundessatzung.
 
 ### § 3	Verfahren
 
@@ -63,3 +59,4 @@ Der Bundesvorstand muss den Einspruch bei der nächstfolgenden Bundesversammlung
 
 > Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen  
 Geändert in der 26. Bundesversammlung vom 19. bis 21. Mai 2000 in Immenhausen
+Geändert in der 43. Bundesversammlung vom 27. bis 29. Juni 2016 in Immenhausen
