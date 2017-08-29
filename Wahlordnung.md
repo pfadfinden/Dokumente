@@ -24,12 +24,14 @@ Jeder Landesverband hat in der Bundesversammlung mindestens 1 Stimme nach § 1 S
 
 Ab 300 Mitgliedern wird für je weitere angefangene 150 Mitglieder je ein Bundesdelegierter / eine Bundesdelegierte gewählt.
 
-bis 299 Mitglieder	=	1 Delegierte/r  
-300 - 449 Mitglieder	=	2 Delegierte  
-450 - 599 Mitglieder	=	3 Delegierte  
-600 - 749 Mitglieder	=	4 Delegierte  
-750 - 899 Mitglieder	=	5 Delegierte  
-usw.
+|                      |                 |
+| -------------------- | --------------- |
+| bis 299 Mitglieder   | 1 Delegierte/r  |
+| 300 - 449 Mitglieder | 2 Delegierte    |
+| 450 - 599 Mitglieder | 3 Delegierte    |
+| 600 - 749 Mitglieder | 4 Delegierte    |
+| 750 - 899 Mitglieder | 5 Delegierte    |
+| usw.                 |                 |
 
 Die Bundesdelegierten sollten die männlichen und weiblichen Mitglieder der Landesverbände angemessen repräsentieren.
 
@@ -37,4 +39,5 @@ Die Bundesdelegierten sollten die männlichen und weiblichen Mitglieder der Land
 
 > Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen.  
 Geändert in der 41. Bundesversammlung vom 16. bis 18. Mai 2014 in Immenhausen.  
-Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.  
+Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  

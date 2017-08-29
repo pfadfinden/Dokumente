@@ -25,7 +25,7 @@
 3. Der Gruß entspricht dem internationalen Brauch.
 
 4. Zur Bundestracht gehören:  
-Dunkelblaues Hemd/Bluse und Bundeszeichen. Für die Wölflingsstufe das goldgelbe Halstuch und als Stoffabzeichen der schwarze Wolfskopf auf goldgelbem Grund. Ab Pfadfinderstufe das blaue Halstuch mit goldgelbem Randstreifen und als Stoffabzeichen das Bundeszeichen auf blauem Grund. Die Ranger- und Roverstufe zusätzlich das Stoffabzeichen in Form einer Raute mit einem roten und blauen R im Winkel des Halstuches. Bei Auslandsfahrten wird das Deutschlandband getragen.
+Dunkelblaues Hemd/Bluse und Bundeszeichen. Für die Wölflingsstufe das goldgelbe Halstuch und als Stoffabzeichen der schwarze Wolfskopf auf goldgelbem Grund. Ab Pfadfinderstufe das blaue Halstuch mit goldgelbem Randstreifen und als Stoffabzeichen das Bundeszeichen auf blauem Grund. Die Ranger- und Roverstufe zusätzlich das Stoffabzeichen in Form einer Raute mit einem roten und blauen R im Winkel des Halstuches. Bei Auslandsfahrten wird das Deutschlandband getragen. Für alle Mitglieder als Stoffabzeichen die Symbole der Pfadfinderinnen- und Pfadfinderweltverbände World Association of Girl Guides and Girl Scouts (WAGGGS) und/oder World Organization of the Scout Movement (WOSM). Goldgelbes Kleeblatt auf hellblauem Grund und weiße Lilie auf lila Grund.
 
 ### IV. Aufbau
 
@@ -191,17 +191,18 @@ VII. Schlußbemerkung
 
 ---
 
-> Beschlossen in der 2. Bundesversammlung am 6./7. November 1976 in Oberreifenberg.
-Geändert in der 3. Bundesversammlung am 14./15. Mai 1977 in Biedenkopf/Lahn.
-Geändert in der 6. Bundesversammlung am 17./18. Mai 1980 in Biedenkopf/Lahn.
-Geändert in der 9. Bundesversammlung vom 6. bis 8. Mai 1983 in Bergisch Gladbach.
-Geändert in der 10. Bundesversammlung vom 11. bis 13. Mai 1984 auf Burg Stettenfels in Untergruppenbach.
-Geändert in der 11. Bundesversammlung vom 3. bis 5. Mai 1985 in Wiesbaden.
-Ergänzt in der 13. Bundesversammlung vom 1. bis 3. Mai 1987 auf Burg Altleiningen.
-Ergänzt in der 16. Bundesversammlung vom 11. bis 13. Mai 1990 in Immenhausen.
-Geändert in der 19. Bundesversammlung vom 8. bis 9. Mai 1993 in Immenhausen.
-Geändert in der 41. Bundesversammlung vom 16. bis 18. Mai 2014 in Immenhausen.
-Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.
+> Beschlossen in der 2. Bundesversammlung am 6./7. November 1976 in Oberreifenberg.  
+Geändert in der 3. Bundesversammlung am 14./15. Mai 1977 in Biedenkopf/Lahn.  
+Geändert in der 6. Bundesversammlung am 17./18. Mai 1980 in Biedenkopf/Lahn.  
+Geändert in der 9. Bundesversammlung vom 6. bis 8. Mai 1983 in Bergisch Gladbach.  
+Geändert in der 10. Bundesversammlung vom 11. bis 13. Mai 1984 auf Burg Stettenfels in Untergruppenbach.  
+Geändert in der 11. Bundesversammlung vom 3. bis 5. Mai 1985 in Wiesbaden.  
+Ergänzt in der 13. Bundesversammlung vom 1. bis 3. Mai 1987 auf Burg Altleiningen.  
+Ergänzt in der 16. Bundesversammlung vom 11. bis 13. Mai 1990 in Immenhausen.  
+Geändert in der 19. Bundesversammlung vom 8. bis 9. Mai 1993 in Immenhausen.  
+Geändert in der 41. Bundesversammlung vom 16. bis 18. Mai 2014 in Immenhausen.  
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.  
+Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
 
 ---
 

@@ -15,7 +15,7 @@ g)	Beratung der Tagesordnung.
 ## 2.	Anträge
 Anträge können von den Delegierten und den Mitgliedern der Bundesleitung gestellt werden. Anträge zur Bundesversammlung müssen dem Bundesvorstand spätestens vier Wochen vor der Bundesversammlung schriftlich zugehen. Alle Anträge sollten eine schriftliche Begründung enthalten. Danach eingehende Anträge werden in der nächsten Versammlung behandelt, wenn die Bundesversammlung nichts anderes beschließt. Dies gilt nicht für Satzungsänderungsanträge.
 
-Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei Wochen vor der Bundesversammlung durch Aufgabe zur Post.
+Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei Wochen vor der Bundesversammlung per E-Mail oder Post.
 
 ## 3.	Dringlichkeitsanträge
 Dringlichkeitsanträge können außerhalb der Tagesordnung gestellt werden, über die Dringlichkeit ist sofort zu beschließen.
@@ -42,4 +42,5 @@ Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesv
 
 > Beschlossen in der 26. Bundesversammlung vom 19. bis 21. Mai 2000 in Immenhausen  
 Beschlossen in der 40. Bundesversammlung vom 08. bis 09. Juni 2013 in Immenhausen  
-Beschlossen in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen
+Beschlossen in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen  
+Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  

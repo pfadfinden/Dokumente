@@ -29,6 +29,8 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 
 (5)	Der BdP verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
+(6) Personen können auf ihren angemessenen, mit dem Vorstand vertraglich vereinbarten oder durch eine von Bundesversammlung oder Vorstand beschlossene Ordnung zugestandenen Aufwendungsersatz verzichten und statt des Aufwendungsersatzes eine Bescheinigung/Bestätigung des Vereins über die Zuwendung für steuerbegünstigte Zwecke im Sinne der Satzung erhalten.
+
 ## § 3		Erwerb der Mitgliedschaft
 
 (1)	Mitglied im Verein können auf schriftlichen Antrag werden
@@ -303,4 +305,5 @@ Geändert in der 30. Bundesversammlung am 21. Februar 2004 in Immenhausen.
 Geändert in der 36. Bundesversammlung am 3. bis 5. Juni 2009 in Immenhausen.  
 Geändert in der 37. Bundesversammlung am 28. bis 30. Mai 2010 in Immenhausen.  
 Geändert in der 41. Bundesversammlung am 16. bis 18. Mai 2014 in Immenhausen.  
-Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.
+Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.  
+Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.
