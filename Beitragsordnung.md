@@ -31,7 +31,7 @@ Der Beitrag besteht aus einem von der Bundesversammlung festgesetzten Bundesbeit
 Der Bundesbeitrag der BdP-Mitglieder, die in Sachsen, Brandenburg, Sachsen-Anhalt, Mecklenburg-Vorpommern und Thüringen leben, soll dem allgemeinen Einkommensniveau dieser Länder angepasst werden. Dies ist bei der Festsetzung des Bundesbeitrags zu berücksichtigen
 
 ## § 3	Fälligkeit des Beitrages
-(1)	Der Bundesbeitrag ist zum 1. Januar des Jahres fällig. Handelt es sich um den ersten Beitrag nach Vereinsbeitritt, ist der Bundesbeitrag innerhalb von drei Wochen nach Zusendung des Mitgliedsausweises fällig.
+(1)	Der Bundesbeitrag ist zum 1. Januar des Jahres fällig. Handelt es sich um den ersten Beitrag nach Vereinsbeitritt, ist der Bundesbeitrag innerhalb von drei Wochen nach Annahme des Aufnahmeantrags fällig.
 
 (2)	Die örtlichen Gruppen führen die Landes- und Bundesbeiträge Ihrer Mitglieder bis zum 28. Februar des Jahres an den jeweiligen Landesverband ab. Hierzu erhalten die örtlichen Gruppen eine Rechnung mit namentlicher Auflistung der Mitglieder, für die ein Beitrag fällig ist.
 
@@ -49,4 +49,5 @@ Nach Anforderung durch den Bund können mit den Landesverbänden Abschlagszahlun
 
 > Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen.  
 Geändert in der 40. Bundesversammlung vom 7. bis 9. Juni 2013 in Immenhausen.  
-Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 Immenhausen.
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 Immenhausen.  
+Geändert in der 45. Bundesversammlung vom 08. bis 10. Juni 2018 Immenhausen.

@@ -22,7 +22,7 @@ c) Der Landesverband erfasst den Aufnahmeantrag in der Mitgliederverwaltung, sof
 
 d) Wenn nicht binnen einer Frist von acht Tagen eine ablehnende Entscheidung des Bundesvorstandes dem Landesvorstand zugegangen ist, gilt der Aufnahmeantrag rückwirkend zum Antragsdatum als angenommen. Bei Ablehnung der Aufnahme durch den Vorstand der örtlichen Gruppe oder den Landesvorstand verlängert sich die Frist auf 4 Wochen. Während dieser Frist müssen Vorstand der örtlichen Gruppe, Landesvorstand und Bundesvorstand den Kontakt aufnehmen, um zu einer gemeinsamen und einvernehmlichen Entscheidung zu kommen.
 
-e) Der Mitgliedsausweis wird vom Landesverband direkt an die örtliche Gruppe als Bestätigung der ordentlichen Mitgliedschaft übersandt.
+e) Der Mitgliedsausweis wird vom Bundesverband direkt an die Antragstellerin / den Antragsteller als Bestätigung der ordentlichen Mitgliedschaft übersandt.
 
 f) Die Ablehnung eines Aufnahmeantrags hat schriftlich an die Antragstellerin / den Antragsteller zu erfolgen. Die betroffenen Untergliederungen erhalten hiervon eine Kopie.  
 Weitere Aufnahmeanträge dieser Person gelten als abgelehnt. Die Ablehnung kann nur durch den Bundesvorstand aufgehoben werden.
@@ -37,7 +37,7 @@ c) Der Landesverband erfasst den Aufnahmeantrag in der Mitgliederverwaltung, sof
 
 d) Ein Aufnahmeantrag gilt rückwirkend zum Antragsdatum als angenommen, sobald der Bundesvorstand dies dem Landesvorstand mitteilt, spätestens jedoch sechs Wochen nach Eingang im Bundesamt. Bei Ablehnung der Aufnahme durch den Vorstand der örtlichen Gruppe/Landesvorstand gilt ebenfalls eine Frist von sechs Wochen nach Eingang im Bundesamt, binnen derer der Bundesvorstand über die Aufnahme entscheidet. Während dieser Frist müssen Vorstand der örtlichen Gruppe, Landesvorstand und Bundesvorstand den Kontakt aufnehmen, um zu einer gemeinsamen und einvernehmlichen Entscheidung zu kommen.
 
-e) Der Mitgliedsausweis wird vom Landesverband direkt an die örtliche Gruppe als Bestätigung der ordentlichen Mitgliedschaft übersandt.
+e) Der Mitgliedsausweis wird vom Bundesverband direkt an die Antragstellerin / den Antragsteller als Bestätigung gesandt, dass dem Aufnahmeantrag entsprochen wurde.
 
 f) Die Ablehnung eines Aufnahmeantrags hat schriftlich an die Antragstellerin / den Antragsteller zu erfolgen. Die betroffenen Untergliederungen erhalten hiervon eine Kopie.  
 Weitere Aufnahmeanträge dieser Person gelten als abgelehnt. Die Ablehnung kann nur durch den Bundesvorstand aufgehoben werden.
@@ -52,7 +52,7 @@ b) Der Landesverband erfasst den Aufnahmeantrag in der Mitgliederverwaltung, sof
 
 c) Ein Aufnahmeantrag gilt rückwirkend zum Antragsdatum als angenommen, sobald der Bundesvorstand dies dem Landesvorstand mitteilt, spätestens jedoch sechs Wochen nach Eingang im Bundesamt. Bei Ablehnung der Aufnahme durch den Landesvorstand gilt ebenfalls eine Frist von sechs Wochen nach Eingang im Bundesamt, binnen derer der Bundesvorstand über die Aufnahme entscheidet. Während dieser Frist müssen Landesvorstand und Bundesvorstand den Kontakt aufnehmen, um zu einer gemeinsamen und einvernehmlichen Entscheidung zu kommen.
 
-d) Der Mitgliedsausweis wird vom Landesverband direkt an die Antragstellerin / den Antragsteller als Bestätigung der ordentlichen Mitgliedschaft übersandt.
+d) Der Mitgliedsausweis wird vom Bundesverband direkt an die Antragstellerin / den Antragsteller als Bestätigung gesandt, dass dem Aufnahmeantrag entsprochen wurde.
 
 e) Die Ablehnung eines Aufnahmeantrags hat schriftlich an die Antragstellerin / den Antragsteller zu erfolgen. Der Landesvorstand erhält hiervon eine Kopie. Weitere Aufnahmeanträge dieser Person gelten als abgelehnt. Die Ablehnung kann nur durch den Bundesvorstand aufgehoben werden.
 
@@ -70,7 +70,7 @@ d) Wird ein Antrag auf Landesebene abgegeben, äußert der Landesvorstand sein E
 
 e) Der Bundesvorstand entscheidet über den Antrag.
 
-f) Der Bundesvorstand teilt das Ergebnis der Antragstellerin / dem Antragsteller sowie den beteiligten Ebenen mit. Der Mitgliedsausweis wird vom Bund bzw. vom Landesverband direkt an die Antragstellerin / den Antragsteller als Bestätigung zugesandt.
+f) Der Bundesvorstand teilt das Ergebnis der Antragstellerin / dem Antragsteller sowie den beteiligten Ebenen mit. Der Mitgliedsausweis wird vom Bundesverband direkt an die Antragstellerin / den Antragsteller als Bestätigung zugesandt.
 
 g) Die Ablehnung eines Aufnahmeantrags hat schriftlich an die Antragstellerin / den Antragsteller zu erfolgen. Die anderen beteiligten Ebenen erhalten hiervon eine Kopie. Weitere Aufnahmeanträge dieser Person gelten als abgelehnt. Die Ablehnung kann nur durch den Bundesvorstand aufgehoben werden.
 
@@ -86,5 +86,6 @@ Das Aufnahmeverfahren für fördernde Mitglieder entspricht § 2 dieser Ordnung.
 > Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen  
 Geändert in der 26. Bundesversammlung vom 19. bis 21. Mai 2000 in Immenhausen  
 Geändert in der 27. Bundesversammlung vom 24. bis 27. Mai 2001 in Immenhausen  
-Geändert in der 40. Bundesversammlung vom 8.-9.Juni 2013 in Immenhausen  
-Geändert in der 42. Bundesversammlung vom 12.-14.Juni 2015 in Immenhausen
+Geändert in der 40. Bundesversammlung vom 8. bis 9. Juni 2013 in Immenhausen  
+Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen  
+Geändert in der 45. Bundesversammlung vom 8. bis 10. Juni 2018 in Immenhausen
