@@ -1,6 +1,6 @@
 # BdP Bundessatzung
 
-> Neufassung 1999 und Änderungen 2000, 2001, 2002, 2004, 2009, 2010, 2014, 2015, 2017, 2019
+> Neufassung 1999 und Änderungen 2000, 2001, 2002, 2004, 2009, 2010, 2014, 2015
 
 ## § 1	Name, Sitz und Geschäftsjahr
 (1)	Der Verein trägt den Namen Bund der Pfadfinderinnen und Pfadfinder e.V., abgekürzt BdP.
@@ -290,30 +290,8 @@ Der Vorstand der örtlichen Gruppe wird von der Mitgliederversammlung auf die Da
 
 (3)	Gründen Untergliederungen des Vereins Rechtsträgervereine, so muss dem Vorstand des Rechtsträgervereins mindestens ein gewähltes Vorstandsmitglied oder eine/ein Beauftragte/r des gewählten Vorstandes der Untergliederung angehören. Die Mehrzahl der Vorstandsmitglieder des Rechtsträgervereins muss der Untergliederung angehören. Die übrigen Mitglieder des Vorstandes der Untergliederung müssen dem Rechts-trägerverein beitreten; dazu muss dieser ihnen in seiner Satzung ein recht zum Eintritt gewähren.
 
-## § 15 Datenschutzregelung
+## § 15	Auflösung des Vereins
 
-Der Verein und seine Untergliederungen müssen zur Erfüllung ihrer satzungsgemäßen Zwecke personenbezogene Daten der Mitglieder erheben und verarbeiten. Dies erfolgt unter Beachtung der Regelungen der EU-Datenschutzgrundverordnung sowie des Bundesdatenschutzgesetzes.
-
-Mit dem Beitritt nimmt der Verein folgende personenbezogene Daten des Mitglieds auf:
--	vollständigen Namen,
--	Anschrift,
--	Geschlecht,
--	Telefonnummern und E-Mail-Adressen,
--	Geburtsdatum,
--	Bankverbindung (bei Teilnahme am Lastschrifteinzugsverfahren)
-
-Darüber hinaus werden Daten über die Teilnahme an Veranstaltungen sowie die Ausübung von Ämtern und Aufgaben erhoben.
-
-Diese personenbezogenen Informationen werden von dem Verein elektronisch gespeichert. Jedem Vereinsmitglied wird dabei eine Mitgliedsnummer zugeordnet. Der Verein trägt dafür Sorge, dass die personenbezogenen Daten des Mitglieds durch geeignete technische und organisatorische Maßnahmen vor der Kenntnisnahme Dritter geschützt werden.
-
-Jedes Vereinsmitglied hat das Recht auf:
--	Auskunft über die zu seiner Person gespeicherten Daten,
--	Berichtigung der Daten, sofern diese unrichtig sind,
--	Sperrung der Daten, wenn deren Richtigkeit nicht feststeht,
--	Löschung der Daten, wenn die Speicherung unzulässig war oder wird,
--	Bereitstellung dieser Daten in einem gängigen Format (Recht auf Datenübertragung), Art. 20 DSGVO
-
-## § 16	Auflösung des Vereins
 (1)	Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall seines bisherigen Zweckes fällt das Vermögen an die Stiftung Pfadfinden unter der Auflage, es alsbald ausschließlich und unmittelbar gemeinnützigen Zwecken im Sinne des § 2 der Satzung zuzuführen. Sofern die Bundesversammlung nicht anders beschließt, wird der Bundesvorstand zu Liquidatoren bestimmt.
 
 (2)	Bei Auflösung, Aufhebung oder Ausschluss einer Untergliederung fällt das Vermögen an die nächsthöhere Ebene unter der Auflage, dieses baldmöglichst der satzungsgemäßen Verwendung zuzuführen.
@@ -328,5 +306,4 @@ Geändert in der 36. Bundesversammlung am 3. bis 5. Juni 2009 in Immenhausen.
 Geändert in der 37. Bundesversammlung am 28. bis 30. Mai 2010 in Immenhausen.  
 Geändert in der 41. Bundesversammlung am 16. bis 18. Mai 2014 in Immenhausen.  
 Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.  
-Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
-Geändert in der 46. Bundesversammlung vom 24. bis 26. Mai 2019 in Immenhausen.
+Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.
