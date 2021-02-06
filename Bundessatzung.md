@@ -191,7 +191,7 @@ Stimmberechtigt sind
 - zur Änderung der Landessatzung,
 - zur Änderung von Landeswahl- und Geschäftsordnung der Landesversammlung,
 - zur Abwahl von Landesvorstandsmitgliedern,
-- zur Aberkennung des Status einer örtlichen Gruppe. Näheres regelt die Bundesordnung,
+- zur Auflösung einer örtlichen Gruppe und zur Aberkennung des Status "Stamm" einer örtlichen Gruppe. Näheres regelt die Bundesordnung,
 - zur Auflösung des Landesverbandes.
 
 ## § 10	Örtliche Mitgliederversammlungen
