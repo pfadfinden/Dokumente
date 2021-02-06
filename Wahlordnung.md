@@ -4,7 +4,7 @@
 
 (1)	Die Landesdelegierten werden in den Mitgliederversammlungen der örtlichen Gruppen und die Bundesdelegierten in der Landesversammlung in einem Wahlgang jährlich gewählt. Die Wahlperiode gilt bis zur Neuwahl der Delegierten. In der Landesversammlung hat jeder Wahlberechtigte soviel Stimmen, wie Bundesdelegierte gewählt werden. Stimmenhäufung ist unzulässig.
 
-Die Wahl der Delegierten und Ersatzdelegierten kann in einem Wahlgang erfolgen. Die Bewerber mit den meisten Stimmen sind Delegierte, die mit den nächstniedrigen Stimmzahlen Ersatzdelegierte. Würden sich durch Stimmengleichheit die Zahl der zu stellenden Delegierten erhöhen, so entscheidet eine Stichwahl. Briefwahl und Stimmrechtsübertragung sind unzulässig.
+Die Wahl der Delegierten und Ersatzdelegierten kann in einem Wahlgang erfolgen. Die Bewerber mit den meisten Stimmen sind Delegierte, die mit den nächstniedrigen Stimmzahlen Ersatzdelegierte. Würden sich durch Stimmengleichheit die Zahl der zu stellenden Delegierten erhöhen, so entscheidet eine Stichwahl. 
 
 Zur Wahl ist drei Wochen vorher einzuladen.
 
