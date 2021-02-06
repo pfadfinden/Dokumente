@@ -39,7 +39,7 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 
 Der Antrag minderjähriger Personen muss vom gesetzlichen Vertreter (bei mehreren Vertretern von allen) unterschrieben werden.
 
-Jedes ordentliche Mitglied gehört einem (1) Landesverband an. Eine Mitgliedschaft in mehreren Landesverbänden oder mehreren örtlichen Gruppen ist mit schriftlicher Zustimmung des Bundesvorstands möglich. Das aktive/passive Wahlrecht kann nur in einer (1) Gruppe und dem dazugehörigen (1) Landesverband ausgeübt werden.
+Jedes ordentliche Mitglied gehört einem (1) Landesverband an. Eine Mitgliedschaft in mehreren Landesverbänden oder mehreren örtlichen Gruppen ist mit Zustimmung des Bundesvorstands möglich. Das aktive Wahlrecht kann nur in einer (1) Gruppe und dem dazugehörigen (1) Landesverband ausgeübt werden.
 
 (2)	Es ist anzugeben, ob die Mitgliedschaft als ordentliches oder als förderndes Mitglied gewünscht wird.
 
