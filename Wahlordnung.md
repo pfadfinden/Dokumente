@@ -8,7 +8,7 @@ Die Wahl der Delegierten und Ersatzdelegierten kann in einem Wahlgang erfolgen. 
 
 Zur Wahl ist drei Wochen vorher einzuladen.
 
-(2)	Die Wahl der Landesdelegierten muss spätestens 4 Wochen vor der jeweiligen Landesversammlung, die der Bundesdelegierten spätestens 4 Wochen vor der Bundesversammlung stattfinden
+(2)	Die Wahl der Landesdelegierten soll spätestens 4 Wochen vor der jeweiligen Landesversammlung, die der Bundesdelegierten spätestens 4 Wochen vor der Bundesversammlung stattfinden
 
 (3)	Wahlberechtigt und wählbar ist jedes ordentliche Mitglied.
 
