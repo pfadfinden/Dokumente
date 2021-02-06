@@ -149,6 +149,8 @@ Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei
 
 (9)	Die Beschlüsse der Bundesversammlung werden protokolliert. Der Bundesvorstand schlägt der Bundesversammlung die Protokollführer/innen vor. Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen in Kopie per E-Mail oder Post zugesandt. Über Einwände gegen den Inhalt entscheidet die nächste Bundesversammlung.
 
+(10)	Die Bundesversammlung tagt entweder physisch an einem Versammlungsort oder virtuell mit Hilfe elektronischer Kommunikationsmittel, wobei eine Kombination beider Tagungsarten möglich ist. Die konkrete Tagungsart wird in der Einladung zur jeweiligen Versammlung festgelegt, wobei mindestens eine Bundesversammlung pro Jahr in Form einer physischen Versammlung stattfinden soll. 
+
 ## § 8	Ausschüsse der Bundesversammlung
 Die Bundesversammlung kann Ausschüsse bilden, deren Aufgaben, Rechte und Pflichten von Fall zu Fall festgelegt werden. Die Ausschüsse haben der Bundesversammlung zu berichten.
 
