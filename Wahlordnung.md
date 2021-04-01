@@ -22,16 +22,16 @@ Den Zahlenschlüssel für die Wahl der Landesdelegierten setzt die jeweilige Lan
 
 Jeder Landesverband hat in der Bundesversammlung mindestens 1 Stimme nach § 1 Satz 4.
 
-Ab 300 Mitgliedern wird für je weitere angefangene 150 Mitglieder je ein Bundesdelegierter / eine Bundesdelegierte gewählt.
+Ab 300 ordentlichen Mitgliedern wird für je weitere angefangene ordentliche 150 Mitglieder je ein Bundesdelegierter / eine Bundesdelegierte gewählt.
 
-|                      |                 |
-| -------------------- | --------------- |
-| bis 299 Mitglieder   | 1 Delegierte/r  |
-| 300 - 449 Mitglieder | 2 Delegierte    |
-| 450 - 599 Mitglieder | 3 Delegierte    |
-| 600 - 749 Mitglieder | 4 Delegierte    |
-| 750 - 899 Mitglieder | 5 Delegierte    |
-| usw.                 |                 |
+|                               |                 |
+| ----------------------------- | --------------- |
+| bis 299 ordentl. Mitglieder   | 1 Delegierte/r  |
+| 300 - 449 ordentl. Mitglieder | 2 Delegierte    |
+| 450 - 599 ordentl. Mitglieder | 3 Delegierte    |
+| 600 - 749 ordentl. Mitglieder | 4 Delegierte    |
+| 750 - 899 ordentl. Mitglieder | 5 Delegierte    |
+| usw.                          |                 |
 
 Die Bundesdelegierten sollten die männlichen und weiblichen Mitglieder der Landesverbände angemessen repräsentieren.
 
