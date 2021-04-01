@@ -77,9 +77,9 @@ Jedes Mitglied hat Beiträge zu entrichten. Näheres regelt die von der Bundesve
 
 (3)  Fördernde Mitglieder unterstützen den Verein ideell und 	materiell. Sie haben mindestens den von der Bundesversammlung festgesetzten Jahresbeitrag für fördernde Mitglieder zu entrichten. Näheres regelt die von der Bundesversammlung erlassene Beitragsordnung. Sie können an Versammlungen mit beratender Stimme teilnehmen.
 
-Der Erwerb der Fördermitgliedschaft durch Personen
-unter 26 Jahren bedarf der Zustimmung des Vorstands
-der örtlichen Gruppe und des Landesvorstands.
+Der Erwerb der Fördermitgliedschaft durch Personen unter 26 Jahren bedarf der Zustimmung des Vorstands der örtlichen Gruppe und des Landesvorstands.
+
+Fördernde Mitglieder werden bei der Berechnung der Anzahl der Delegierten für die Landes- und Bundesversammlungen nicht berücksichtigt.
 
 ## § 6	Organe des Vereins
 
