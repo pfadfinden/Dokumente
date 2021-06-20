@@ -82,7 +82,7 @@ Das Aufnahmeverfahren für fördernde Mitglieder entspricht § 2 dieser Ordnung.
 (2)	Eine bestehende Mitgliedschaft kann auf schriftlichen Antrag des Mitglieds in eine fördernde Mitgliedschaft umgewandelt werden.
 
 ## § 4	Digitaler Aufnahmeprozess
-(1) Ergänzend zu den Bestimmungen der §§ 2 und 3 ist ein digitaler Aufnahmeprozess zulässig, sofern hierfür die von der Bundesebene bereitgestellten digitalen Anwendungen genutzt und deren Nutzungsbedingunen beachtet werden. Insbesondere dürfen personenbezogene Zugangdaten Dritten nicht zugänglich gemacht werden, sodass die Identität der handelnden Personen stets nachvollziehbar ist.
+(1) Ergänzend zu den Bestimmungen der §§ 2 und 3 ist ein digitaler Aufnahmeprozess zulässig, sofern hierfür die von der Bundesebene bereitgestellten digitalen Anwendungen genutzt und deren Nutzungsbedingungen beachtet werden. Insbesondere dürfen personenbezogene Zugangsdaten Dritten nicht zugänglich gemacht werden, sodass die Identität der handelnden Personen stets nachvollziehbar ist.
 
 (2) Die unter §2 beschriebenen grundsätzlichen Abläufe gelten auch im digitalen Aufnahmeverfahren, insbesondere bleiben die dort genannten Pflichten zur Begründung von Entscheidungen und im Fall von abgelehnten Aufnahmeanträgen zur Weitergabe an die nächsthöhere Ebene bestehen.
 
