@@ -134,6 +134,12 @@ Die nächste stattfindende Landesversammlung bestätigt die Aufnahme als Aufbaug
 
 2.10. Nur anerkannte Stämme des Bundes können das Bundessiegel führen.
 
+2.11. Die Landesversammlung entscheidet über die Auflösung eines Stammes/einer Aufbaugruppe (örtliche Gruppe)
+- auf Antrag des Landesvorstands oder der Stammesführung, sofern die örtliche Gruppe nicht mehr in der Lage ist, über ihre Auflösung selbst zu entscheiden (insbesondere Verlust aller ordentlichen Mitglieder, kein Zustandekommen einer beschlussfähigen Stammesversammlung über einen längeren Zeitraum hinweg, Fehlen einer handlungsfähigen Stammesführung über einen längeren Zeitraum hinweg)
+- auf Antrag des Landesvorstands, sofern sich die örtliche Gruppe deutlich von den Grundsätzen und Werten des BdP abwendet, den Vereinsinteressen zuwiderhandelt oder das Ansehen des Vereins schädigt, insbesondere durch Verletzung des Grundsatzes der politischen oder religiösen Toleranz.
+
+2.12. Sofern die Satzung der örtlichen Gruppe nichts anderes regelt, fällt das Vermögen einer aufgelösten örtlichen Gruppe an den jeweiligen Landesverband unter der Auflage, es alsbald ausschließlich und unmittelbar gemeinnützigen Zwecken im Sinne des § 2 der Bundessatzung zuzuführen. Sofern bei Auflösung nichts anderes beschlossen wird, wird der Landesvorstand zu Liquidatoren bestimmt.
+
 3.	Horste
 
 3 .1. Die gewachsene Bindung von Stämmen und Aufbaugruppen auf Ortsebene fördert den Bundesgedanken. Solche örtlichen Zusammenschlüsse heißen Horste. Diese werden durch ihre Sprecher vertreten. Der Sprecher wird durch die beteiligten Stämme und Aufbaugruppen gewählt.
@@ -203,6 +209,7 @@ Geändert in der 19. Bundesversammlung vom 8. bis 9. Mai 1993 in Immenhausen.
 Geändert in der 41. Bundesversammlung vom 16. bis 18. Mai 2014 in Immenhausen.  
 Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.  
 Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
+Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.
 
 ---
 

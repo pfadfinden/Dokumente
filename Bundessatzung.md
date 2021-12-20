@@ -39,7 +39,7 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 
 Dem Antrag minderjähriger Personen haben die gesetzlichen Vertreterinnen bzw. Vertreter zuzustimmen.
 
-Jedes ordentliche Mitglied gehört einem (1) Landesverband an. Eine Mitgliedschaft in mehreren Landesverbänden oder mehreren örtlichen Gruppen ist mit schriftlicher Zustimmung des Bundesvorstands möglich. Das aktive/passive Wahlrecht kann nur in einer (1) Gruppe und dem dazugehörigen (1) Landesverband ausgeübt werden.
+Jedes ordentliche Mitglied gehört einem (1) Landesverband an. Eine Mitgliedschaft in mehreren Landesverbänden oder mehreren örtlichen Gruppen ist mit Zustimmung des Bundesvorstands möglich. Das aktive Wahlrecht kann nur in einer (1) Gruppe und dem dazugehörigen (1) Landesverband ausgeübt werden.
 
 (2)	Es ist anzugeben, ob die Mitgliedschaft als ordentliches oder als förderndes Mitglied gewünscht wird.
 
@@ -77,9 +77,9 @@ Jedes Mitglied hat Beiträge zu entrichten. Näheres regelt die von der Bundesve
 
 (3)  Fördernde Mitglieder unterstützen den Verein ideell und 	materiell. Sie haben mindestens den von der Bundesversammlung festgesetzten Jahresbeitrag für fördernde Mitglieder zu entrichten. Näheres regelt die von der Bundesversammlung erlassene Beitragsordnung. Sie können an Versammlungen mit beratender Stimme teilnehmen.
 
-Der Erwerb der Fördermitgliedschaft durch Personen
-unter 26 Jahren bedarf der Zustimmung des Vorstands
-der örtlichen Gruppe und des Landesvorstands.
+Der Erwerb der Fördermitgliedschaft durch Personen unter 26 Jahren bedarf der Zustimmung des Vorstands der örtlichen Gruppe und des Landesvorstands.
+
+Fördernde Mitglieder werden bei der Berechnung der Anzahl der Delegierten für die Landes- und Bundesversammlungen nicht berücksichtigt.
 
 ## § 6	Organe des Vereins
 
@@ -149,6 +149,8 @@ Der Bundesvorstand versendet die Tagungsunterlagen an die Bundesdelegierten drei
 
 (9)	Die Beschlüsse der Bundesversammlung werden protokolliert. Der Bundesvorstand schlägt der Bundesversammlung die Protokollführer/innen vor. Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen in Kopie per E-Mail oder Post zugesandt. Über Einwände gegen den Inhalt entscheidet die nächste Bundesversammlung.
 
+(10)	Die Bundesversammlung tagt physisch an einem Versammlungsort oder virtuell mit Hilfe elektronischer Kommunikationsmittel, wobei eine Kombination beider Tagungsarten möglich ist. Die konkrete Tagungsart wird in der Einladung zur jeweiligen Versammlung festgelegt, wobei mindestens eine Bundesversammlung pro Jahr in Form einer physischen Versammlung stattfinden soll. 
+
 ## § 8	Ausschüsse der Bundesversammlung
 Die Bundesversammlung kann Ausschüsse bilden, deren Aufgaben, Rechte und Pflichten von Fall zu Fall festgelegt werden. Die Ausschüsse haben der Bundesversammlung zu berichten.
 
@@ -189,7 +191,7 @@ Stimmberechtigt sind
 - zur Änderung der Landessatzung,
 - zur Änderung von Landeswahl- und Geschäftsordnung der Landesversammlung,
 - zur Abwahl von Landesvorstandsmitgliedern,
-- zur Aberkennung des Status einer örtlichen Gruppe. Näheres regelt die Bundesordnung,
+- zur Auflösung einer örtlichen Gruppe und zur Aberkennung des Status "Stamm" einer örtlichen Gruppe. Näheres regelt die Bundesordnung,
 - zur Auflösung des Landesverbandes.
 
 ## § 10	Örtliche Mitgliederversammlungen
@@ -332,3 +334,4 @@ Geändert in der 41. Bundesversammlung am 16. bis 18. Mai 2014 in Immenhausen.
 Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.  
 Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
 Geändert in der 46. Bundesversammlung vom 24. bis 26. Mai 2019 in Immenhausen.
+Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.
