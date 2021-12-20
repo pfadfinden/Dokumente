@@ -37,7 +37,7 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 -	natürliche Personen,
 -	juristische Personen.
 
-Dem Antrag minderjähriger Personen haben die gesetzlichen Vertreterinnen bzwe. Vertreter zuzustimmen.
+Dem Antrag minderjähriger Personen haben die gesetzlichen Vertreterinnen bzw. Vertreter zuzustimmen.
 
 Jedes ordentliche Mitglied gehört einem (1) Landesverband an. Eine Mitgliedschaft in mehreren Landesverbänden oder mehreren örtlichen Gruppen ist mit schriftlicher Zustimmung des Bundesvorstands möglich. Das aktive/passive Wahlrecht kann nur in einer (1) Gruppe und dem dazugehörigen (1) Landesverband ausgeübt werden.
 
