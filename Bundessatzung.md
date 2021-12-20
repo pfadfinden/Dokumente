@@ -43,10 +43,10 @@ Jedes ordentliche Mitglied gehört einem (1) Landesverband an. Eine Mitgliedscha
 
 (2)	Es ist anzugeben, ob die Mitgliedschaft als ordentliches oder als förderndes Mitglied gewünscht wird.
 
-Untergliederungen als eingetragener oder nicht einge-tragener Verein und andere juristische Personen können nur förderndes Mitglied werden.
+Untergliederungen als eingetragener oder nicht eingetragener Verein und andere juristische Personen können nur förderndes Mitglied werden.
 
 Fördernde Mitglieder können unmittelbar dem Verein angehören.
-Über die Aufnahme entscheidet der Bundesvorstand nach der von der Bundesversammlung erlassenen Aufnahme-ordnung.
+Über die Aufnahme entscheidet der Bundesvorstand nach der von der Bundesversammlung erlassenen Aufnahmeordnung.
 
 (3)	Bei Untergliederungen bedingt die Mitgliedschaft automatisch die Mitgliedschaft in den übergeordneten Ebenen.
 
