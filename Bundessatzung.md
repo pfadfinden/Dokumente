@@ -33,11 +33,11 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 
 ## § 3		Erwerb der Mitgliedschaft
 
-(1)	Mitglied im Verein können auf schriftlichen Antrag werden
+(1)	Mitglied im Verein können auf Antrag werden
 -	natürliche Personen,
 -	juristische Personen.
 
-Der Antrag minderjähriger Personen muss vom gesetzlichen Vertreter (bei mehreren Vertretern von allen) unterschrieben werden.
+Dem Antrag minderjähriger Personen haben die gesetzlichen Vertreterinnen bzw. Vertreter zuzustimmen.
 
 Jedes ordentliche Mitglied gehört einem (1) Landesverband an. Eine Mitgliedschaft in mehreren Landesverbänden oder mehreren örtlichen Gruppen ist mit schriftlicher Zustimmung des Bundesvorstands möglich. Das aktive/passive Wahlrecht kann nur in einer (1) Gruppe und dem dazugehörigen (1) Landesverband ausgeübt werden.
 
