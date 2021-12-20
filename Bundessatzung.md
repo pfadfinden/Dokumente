@@ -334,3 +334,4 @@ Geändert in der 41. Bundesversammlung am 16. bis 18. Mai 2014 in Immenhausen.
 Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.  
 Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
 Geändert in der 46. Bundesversammlung vom 24. bis 26. Mai 2019 in Immenhausen.
+Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.
