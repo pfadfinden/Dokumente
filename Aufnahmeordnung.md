@@ -1,7 +1,6 @@
 # Aufnahmeordnung
 
 > Basierend auf § 3 der Bundessatzung bzw. der entsprechenden §§ der Satzungen der Untergliederungen regelt die Aufnahmeordnung das Verfahren für die Aufnahme neuer Mitglieder.
-
 ##	§ 1	Zuständigkeiten
 
 (1)	**Natürliche Personen**  
@@ -81,6 +80,11 @@ Das Aufnahmeverfahren für fördernde Mitglieder entspricht § 2 dieser Ordnung.
 
 (2)	Eine bestehende Mitgliedschaft kann auf schriftlichen Antrag des Mitglieds in eine fördernde Mitgliedschaft umgewandelt werden.
 
+## § 4	Digitaler Aufnahmeprozess
+(1) Ergänzend zu den Bestimmungen der §§ 2 und 3 ist ein digitaler Aufnahmeprozess zulässig, sofern hierfür die von der Bundesebene bereitgestellten digitalen Anwendungen genutzt und deren Nutzungsbedingungen beachtet werden. Insbesondere dürfen personenbezogene Zugangsdaten Dritten nicht zugänglich gemacht werden, sodass die Identität der handelnden Personen stets nachvollziehbar ist.
+
+(2) Die unter §2 beschriebenen grundsätzlichen Abläufe gelten auch im digitalen Aufnahmeverfahren.
+
 ---
 
 > Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen  
@@ -88,4 +92,5 @@ Geändert in der 26. Bundesversammlung vom 19. bis 21. Mai 2000 in Immenhausen
 Geändert in der 27. Bundesversammlung vom 24. bis 27. Mai 2001 in Immenhausen  
 Geändert in der 40. Bundesversammlung vom 8. bis 9. Juni 2013 in Immenhausen  
 Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen  
-Geändert in der 45. Bundesversammlung vom 8. bis 10. Juni 2018 in Immenhausen
+Geändert in der 45. Bundesversammlung vom 8. bis 10. Juni 2018 in Immenhausen  
+Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen
