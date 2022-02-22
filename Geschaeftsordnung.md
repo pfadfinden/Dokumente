@@ -30,10 +30,21 @@ d)	Unterbrechung der Sitzung oder Vertagung
 Bei einem Geschäftsordnungsantrag begründet der/die Antragsteller/in den Antrag. Bei Widerspruch ist eine Gegenrede zulässig. Danach ist über den Antrag unverzüglich abzustimmen. Erfolgt keine Gegenrede, so gilt der Antrag zur Geschäftsordnung als angenommen.
 
 ##	5. 	Behandlung von Anträgen
-In der Vorbereitung und notwendigenfalls während der Diskussion können zu einem zur Entscheidung anstehenden Antrag Änderungen einzelner Aspekte des Antrags beantragt werden. Der/die Antragstellende/n können solche Anträge in seinen/ihren Antrag aufnehmen. Nimmt der/die Antragstellende/n die Änderung nicht in den Antrag auf, so erfolgt in der Regel eine vorgezogene Aussprache mit anschließender Abstimmung über den Änderungsantrag. Anträge können von Antragstellenden nur zurückgezogen werden, wenn sich dagegen kein Widerspruch aus der Versammlung erhebt.
+(1) In der Vorbereitung und notwendigenfalls während der Diskussion können zu einem zur Entscheidung anstehenden Antrag Änderungen einzelner Aspekte des Antrags beantragt werden. Der/die Antragstellende/n können solche Anträge in seinen/ihren Antrag aufnehmen. Nimmt der/die Antragstellende/n die Änderung nicht in den Antrag auf, so erfolgt in der Regel eine vorgezogene Aussprache mit anschließender Abstimmung über den Änderungsantrag. 
+(2) Änderungen, die über die Anpassung einzelner Aspekte eines Antrags hinausgehen, sind als eigenständige Anträge bzw. Dinglichkeitsanträge in die Versammlung einzubringen.
+(3) Anträge können von Antragstellenden nur zurückgezogen werden, wenn sich dagegen kein Widerspruch aus der Versammlung erhebt.
+(4) Die gemeinsame Beratung gleichartiger oder verwandter Anträge ist zulässig. In diesem Fall erfolgt eine Debatte aller Anträge zu diesem Gegenstand einschließlich der zugehörigen Änderungsanträge, bevor über die Anträge und ihre jeweiligen Änderungsanträge abgestimmt wird.
 
 ##	6.	Abstimmung
-Vor der Abstimmung ist der Antrag zu verlesen. Abgestimmt wird grundsätzlich durch Handaufheben. Auf Verlangen von einer/m Delegierten ist geheim abzustimmen. Während der Abstimmung können keine Anträge gestellt werden. Im Zweifel entscheidet die Bundesversammlung über die Reihenfolge der Abstimmung. Alle Änderungsanträge sind vor dem Hauptantrag abzustimmen. Bei mehreren Anträgen zum gleichen Beratungsgegenstand ist über den weitestgehenden Antrag zuerst abzustimmen. Anträge zur Geschäftsordnung haben den Vorrang. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
+(1) Vor der Abstimmung ist der Antrag zu verlesen. 
+(2) Abgestimmt wird grundsätzlich in offener Abstimmung. Auf Verlangen von einer/m Delegierten ist geheim abzustimmen. 
+(3) Anträge zur Geschäftsordnung haben den Vorrang. Während einer laufenden Abstimmung können jedoch keine Anträge zur Geschäftsordnung gestellt werden.
+(4) Alle Änderungsanträge sind vor dem Hauptantrag abzustimmen.
+(5) Bei Stimmengleichheit gilt der Antrag als abgelehnt.
+(6) Bei mehreren Anträgen zum gleichen Beratungsgegenstand ist über den weitestgehenden Antrag zuerst abzustimmen. Im Zweifel entscheidet die Bundesversammlung über die Reihenfolge der Abstimmung.  
+(7) Wird festgestellt, dass keiner der Anträge als weitergehend eingestuft werden kann, werden die Anträge gegeneinander abgestimmt. Jedes stimmberechtigte Mitglied der Versammlung hat dabei nur eine Stimme und kann für einen Antrag oder gegen alle Anträge stimmen. Dabei benötigt ein Antrag die absolute Mehrheit der Stimmen. Wird diese von keinem der Anträge erreicht, werden die Anträge nach wiederholter Beratung erneut gegeneinander abgestimmt. In diesem Fall können die abzustimmenden Anträge nach der ersten Abstimmung bis zum Ende dieses Verfahrens nicht mehr geändert, sondern lediglich zurückgezogen werden. Bei Stimmengleichheit in der ersten oder zweiten Abstimmung nach diesem
+Verfahren ist kein Antrag abgelehnt. Erreicht auch in der zweiten Abstimmung kein Antrag die absolute Mehrheit, wird nacheinander einzeln über die Anträge abgestimmt. Dabei folgt die Reihenfolge der Abstimmungen absteigend der Zahl der im zweiten Wahlgang für die jeweiligen Anträge abgegebenen Stimmen.
+Anträge zur Änderung der Bundessatzung und der Ordnungen des Bundes können nicht gegeneinander abgestimmt werden.
 
 ##	7.	Protokoll
 Das Protokoll wird von den Protokollführer/innen und einem Mitglied des Bundesvorstandes unterzeichnet und den Delegierten innerhalb von 12 Wochen per E-Mail oder per Post zugesandt.
