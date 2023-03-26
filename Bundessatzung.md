@@ -24,11 +24,13 @@ Die örtlichen Gruppen können weitere Zusätze anfügen, die der Zustimmung des
 
 (3)	Der Verein ist interkonfessionell. Er ist nicht an Parteien oder Interessengruppen gebunden.
 
-(4)	Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+(4)	Der BdP ist Mitglied im Ring deutscher Pfadfinder*innenverbände und über diesen Mitglied im Deutschen Bundesjugendring sowie in den Weltverbänden „World Association of Girl Guides and Girl Scouts (WAGGGS)“ und „World Organization of the Scout Movement (WOSM)“, deren Satzungen und Beschlüsse der BdP anerkennt.
 
-(5)	Der BdP verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+(5) Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-(6) Personen können auf ihren angemessenen, mit dem Vorstand vertraglich vereinbarten oder durch eine von Bundesversammlung oder Vorstand beschlossene Ordnung zugestandenen Aufwendungsersatz verzichten und statt des Aufwendungsersatzes eine Bescheinigung/Bestätigung des Vereins über die Zuwendung für steuerbegünstigte Zwecke im Sinne der Satzung erhalten.
+(6)	Der BdP verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+
+(7) Personen können auf ihren angemessenen, mit dem Vorstand vertraglich vereinbarten oder durch eine von Bundesversammlung oder Vorstand beschlossene Ordnung zugestandenen Aufwendungsersatz verzichten und statt des Aufwendungsersatzes eine Bescheinigung/Bestätigung des Vereins über die Zuwendung für steuerbegünstigte Zwecke im Sinne der Satzung erhalten.
 
 ## § 3		Erwerb der Mitgliedschaft
 
@@ -333,4 +335,5 @@ Geändert in der 41. Bundesversammlung am 16. bis 18. Mai 2014 in Immenhausen.
 Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.  
 Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
 Geändert in der 46. Bundesversammlung vom 24. bis 26. Mai 2019 in Immenhausen.  
-Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.
+Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.  
+Geändert in der 49. Bundesversammlung vom 13. bis 15. Mai 2022 in Immenhausen.
