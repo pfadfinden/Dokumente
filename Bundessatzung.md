@@ -1,6 +1,6 @@
 # BdP Bundessatzung
 
-> Neufassung 1999 und Änderungen 2000, 2001, 2002, 2004, 2009, 2010, 2014, 2015, 2017, 2019, 2021
+> Neufassung 1999 und Änderungen 2000, 2001, 2002, 2004, 2009, 2010, 2014, 2015, 2017, 2019, 2021, 2022
 ## § 1	Name, Sitz und Geschäftsjahr
 (1)	Der Verein trägt den Namen Bund der Pfadfinderinnen und Pfadfinder e.V., abgekürzt BdP.
 
@@ -336,4 +336,4 @@ Geändert in der 42. Bundesversammlung am 12. bis 14. Juni 2015 in Immenhausen.
 Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
 Geändert in der 46. Bundesversammlung vom 24. bis 26. Mai 2019 in Immenhausen.  
 Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.  
-Geändert in der 49. Bundesversammlung vom 13. bis 15. Mai 2022 in Immenhausen.
+Geändert in der 50. Bundesversammlung vom 13. bis 15. Mai 2022 in Immenhausen.
