@@ -39,7 +39,7 @@ Die Landesverbände führen die Bundesbeiträge bis zum 31. März des Jahres an 
 
 Nach Anforderung durch den Bund können mit den Landesverbänden Abschlagszahlungen vereinbart werden.
 
-(3)	Der Bundeshalbjahresbeitrag ist innerhalb von drei Wochen nach Zusendung des Mitgliedsausweises fällig.
+(3)	Der Bundeshalbjahresbeitrag ist innerhalb von drei Wochen nach Annahme des Aufnahmeantrags fällig.
 
 (4)	Beiträge von Mitgliedern, die im Laufe des Jahres beitreten, können von der Landes- und Bundesebene unterjährig den Untergliederungen in Rechnung gestellt werden.
 
