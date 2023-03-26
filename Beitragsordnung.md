@@ -50,4 +50,5 @@ Nach Anforderung durch den Bund können mit den Landesverbänden Abschlagszahlun
 > Beschlossen in der 25. Bundesversammlung vom 12. bis 16. Mai 1999 in Immenhausen.  
 Geändert in der 40. Bundesversammlung vom 7. bis 9. Juni 2013 in Immenhausen.  
 Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 Immenhausen.  
-Geändert in der 45. Bundesversammlung vom 08. bis 10. Juni 2018 Immenhausen.
+Geändert in der 45. Bundesversammlung vom 08. bis 10. Juni 2018 Immenhausen.  
+Geändert in der 50. Bundesversammlung vom 13. bis 15. Mai 2022 Immenhausen
