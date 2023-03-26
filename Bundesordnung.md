@@ -114,7 +114,7 @@ Freundeskreises sowie ein Vertreter eines etwa bestehenden Fördererkreises kön
 
 2.4. Der Stammesrat regelt die Angelegenheiten des Stammes.
 
-2.5. Ein oder zwei Stammesführer/-innen, ein/e oder mehrere Stellvertreter/-innen und ein/eine Schatzmeister/in bilden die Stammesführung.
+2.5. Ein oder zwei Stammesführer/-innen, ein/e oder mehrere Stellvertreter/-innen, ein/eine Schatzmeister/in und optional ein/eine stellvertrende/r Schatzmeister/-in bilden die Stammesführung. Sie geben der Stammesversammlung jährlich einen Rechenschaftsbericht.
 
 2.6. Die vorgenannten Punkte gelten für Aufbaugruppen entsprechend.
 
@@ -208,7 +208,8 @@ Geändert in der 19. Bundesversammlung vom 8. bis 9. Mai 1993 in Immenhausen.
 Geändert in der 41. Bundesversammlung vom 16. bis 18. Mai 2014 in Immenhausen.  
 Geändert in der 42. Bundesversammlung vom 12. bis 14. Juni 2015 in Immenhausen.  
 Geändert in der 44. Bundesversammlung vom 09. bis 11. Juni 2017 in Immenhausen.  
-Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.
+Geändert in der 49. Bundesversammlung vom 24. bis 26. September 2021 in Immenhausen.  
+Geändert in der 50. Bundesversammlung vom 13. bis 15. Mai 2022 in Immenhausen.
 ---
 
 Bundesordnung
